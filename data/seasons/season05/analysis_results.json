@@ -1,0 +1,376 @@
+{
+  "season": 5,
+  "season_name": "Thailand",
+  "year": 2002,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 7,
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 6,
+  "contestants": [
+    "John",
+    "Tanya",
+    "Jed",
+    "Stephanie",
+    "Robb",
+    "Shii Ann",
+    "Erin",
+    "Ken",
+    "Penny",
+    "Jake",
+    "Ted",
+    "Ghandia",
+    "Jan",
+    "Helen",
+    "Clay",
+    "Brian"
+  ],
+  "finalists": [
+    "Brian",
+    "Clay"
+  ],
+  "winner": "Brian",
+  "all_alignments": [
+    {
+      "player1": "Brian",
+      "player2": "Clay",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brian",
+      "player2": "Ghandia",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brian",
+      "player2": "Helen",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brian",
+      "player2": "Jan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brian",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Clay",
+      "player2": "Ghandia",
+      "votes_together": 3
+    },
+    {
+      "player1": "Clay",
+      "player2": "Helen",
+      "votes_together": 3
+    },
+    {
+      "player1": "Clay",
+      "player2": "Jan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Clay",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ghandia",
+      "player2": "Helen",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ghandia",
+      "player2": "Jan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ghandia",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Helen",
+      "player2": "Jan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Helen",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jan",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erin",
+      "player2": "Jake",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erin",
+      "player2": "Ken",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erin",
+      "player2": "Penny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jake",
+      "player2": "Ken",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jake",
+      "player2": "Penny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ken",
+      "player2": "Penny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erin",
+      "player2": "Shii Ann",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jake",
+      "player2": "Shii Ann",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ken",
+      "player2": "Shii Ann",
+      "votes_together": 2
+    },
+    {
+      "player1": "Penny",
+      "player2": "Shii Ann",
+      "votes_together": 2
+    },
+    {
+      "player1": "Robb",
+      "player2": "Stephanie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brian",
+      "player2": "Tanya",
+      "votes_together": 1
+    },
+    {
+      "player1": "Clay",
+      "player2": "Tanya",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ghandia",
+      "player2": "Tanya",
+      "votes_together": 1
+    },
+    {
+      "player1": "Helen",
+      "player2": "Tanya",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jan",
+      "player2": "Tanya",
+      "votes_together": 1
+    },
+    {
+      "player1": "Tanya",
+      "player2": "Ted",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erin",
+      "player2": "Robb",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erin",
+      "player2": "Stephanie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jake",
+      "player2": "Robb",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jake",
+      "player2": "Stephanie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ken",
+      "player2": "Robb",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ken",
+      "player2": "Stephanie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Penny",
+      "player2": "Robb",
+      "votes_together": 1
+    },
+    {
+      "player1": "Penny",
+      "player2": "Stephanie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Robb",
+      "player2": "Shii Ann",
+      "votes_together": 1
+    },
+    {
+      "player1": "Shii Ann",
+      "player2": "Stephanie",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Brian",
+      "player2": "Clay",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brian",
+      "player2": "Ghandia",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brian",
+      "player2": "Helen",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brian",
+      "player2": "Jan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brian",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Clay",
+      "player2": "Ghandia",
+      "votes_together": 3
+    },
+    {
+      "player1": "Clay",
+      "player2": "Helen",
+      "votes_together": 3
+    },
+    {
+      "player1": "Clay",
+      "player2": "Jan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Clay",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ghandia",
+      "player2": "Helen",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ghandia",
+      "player2": "Jan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ghandia",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Helen",
+      "player2": "Jan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Helen",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jan",
+      "player2": "Ted",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erin",
+      "player2": "Jake",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erin",
+      "player2": "Ken",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erin",
+      "player2": "Penny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jake",
+      "player2": "Ken",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jake",
+      "player2": "Penny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ken",
+      "player2": "Penny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erin",
+      "player2": "Shii Ann",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jake",
+      "player2": "Shii Ann",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ken",
+      "player2": "Shii Ann",
+      "votes_together": 2
+    },
+    {
+      "player1": "Penny",
+      "player2": "Shii Ann",
+      "votes_together": 2
+    },
+    {
+      "player1": "Robb",
+      "player2": "Stephanie",
+      "votes_together": 2
+    }
+  ]
+}

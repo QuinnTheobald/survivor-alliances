@@ -1,0 +1,218 @@
+{
+  "season": 8,
+  "season_name": "All-Stars",
+  "year": 2004,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 7,
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 6,
+  "contestants": [
+    "Tina",
+    "Rudy",
+    "Jenna M",
+    "Rob C",
+    "Richard",
+    "Sue",
+    "Colby",
+    "Ethan",
+    "Jerri",
+    "Lex",
+    "Kathy",
+    "Alicia",
+    "Shii Ann",
+    "Tom",
+    "Rupert",
+    "Jenna L",
+    "Rob M",
+    "Amber"
+  ],
+  "finalists": [
+    "Amber",
+    "Rob M"
+  ],
+  "winner": "Amber",
+  "all_alignments": [
+    {
+      "player1": "Ethan",
+      "player2": "Jenna M",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Jerri",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Rob C",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenna M",
+      "player2": "Jerri",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenna M",
+      "player2": "Rob C",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Rob C",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Rudy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenna M",
+      "player2": "Rudy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Rudy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Rob C",
+      "player2": "Rudy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Amber",
+      "votes_together": 1
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Rob M",
+      "votes_together": 1
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Sue",
+      "votes_together": 1
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amber",
+      "player2": "Rob M",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amber",
+      "player2": "Sue",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amber",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Rob M",
+      "player2": "Sue",
+      "votes_together": 1
+    },
+    {
+      "player1": "Rob M",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Sue",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Colby",
+      "player2": "Jenna L",
+      "votes_together": 1
+    },
+    {
+      "player1": "Colby",
+      "player2": "Kathy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Colby",
+      "player2": "Lex",
+      "votes_together": 1
+    },
+    {
+      "player1": "Colby",
+      "player2": "Shii Ann",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenna L",
+      "player2": "Kathy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenna L",
+      "player2": "Lex",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenna L",
+      "player2": "Shii Ann",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Lex",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Shii Ann",
+      "votes_together": 1
+    },
+    {
+      "player1": "Lex",
+      "player2": "Shii Ann",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Ethan",
+      "player2": "Jenna M",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Jerri",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Rob C",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenna M",
+      "player2": "Jerri",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenna M",
+      "player2": "Rob C",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Rob C",
+      "votes_together": 2
+    }
+  ]
+}

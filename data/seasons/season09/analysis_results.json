@@ -1,0 +1,573 @@
+{
+  "season": 9,
+  "season_name": "Vanuatu",
+  "year": 2004,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 7,
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 6,
+  "contestants": [
+    "Brook",
+    "Dolly",
+    "John P",
+    "Mia",
+    "Travis",
+    "John K",
+    "Brady",
+    "Lea",
+    "Rory",
+    "LeAnn",
+    "Ami",
+    "Julie",
+    "Eliza",
+    "Scout",
+    "Lisa",
+    "Chad",
+    "Twila",
+    "Chris"
+  ],
+  "finalists": [
+    "Chris",
+    "Twila"
+  ],
+  "winner": "Chris",
+  "all_alignments": [
+    {
+      "player1": "Brady",
+      "player2": "Chad",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brady",
+      "player2": "Chris",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brady",
+      "player2": "John K",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brady",
+      "player2": "Lea",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chad",
+      "player2": "Chris",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chad",
+      "player2": "John K",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chad",
+      "player2": "Lea",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chris",
+      "player2": "John K",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chris",
+      "player2": "Lea",
+      "votes_together": 3
+    },
+    {
+      "player1": "John K",
+      "player2": "Lea",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "Eliza",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "LeAnn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "Lisa",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "Scout",
+      "votes_together": 3
+    },
+    {
+      "player1": "Eliza",
+      "player2": "LeAnn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Lisa",
+      "votes_together": 3
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Scout",
+      "votes_together": 3
+    },
+    {
+      "player1": "Julie",
+      "player2": "Twila",
+      "votes_together": 3
+    },
+    {
+      "player1": "LeAnn",
+      "player2": "Lisa",
+      "votes_together": 3
+    },
+    {
+      "player1": "LeAnn",
+      "player2": "Scout",
+      "votes_together": 3
+    },
+    {
+      "player1": "Lisa",
+      "player2": "Scout",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brady",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brady",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chad",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chad",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chris",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chris",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "John K",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "John K",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lea",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lea",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rory",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Julie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Twila",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Julie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Twila",
+      "votes_together": 2
+    },
+    {
+      "player1": "Julie",
+      "player2": "LeAnn",
+      "votes_together": 2
+    },
+    {
+      "player1": "Julie",
+      "player2": "Lisa",
+      "votes_together": 2
+    },
+    {
+      "player1": "Julie",
+      "player2": "Scout",
+      "votes_together": 2
+    },
+    {
+      "player1": "LeAnn",
+      "player2": "Twila",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lisa",
+      "player2": "Twila",
+      "votes_together": 2
+    },
+    {
+      "player1": "Scout",
+      "player2": "Twila",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brady",
+      "player2": "John P",
+      "votes_together": 1
+    },
+    {
+      "player1": "Chad",
+      "player2": "John P",
+      "votes_together": 1
+    },
+    {
+      "player1": "Chris",
+      "player2": "John P",
+      "votes_together": 1
+    },
+    {
+      "player1": "John K",
+      "player2": "John P",
+      "votes_together": 1
+    },
+    {
+      "player1": "John P",
+      "player2": "Lea",
+      "votes_together": 1
+    },
+    {
+      "player1": "John P",
+      "player2": "Rory",
+      "votes_together": 1
+    },
+    {
+      "player1": "John P",
+      "player2": "Travis",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dolly",
+      "player2": "Mia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brady",
+      "player2": "Julie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brady",
+      "player2": "Twila",
+      "votes_together": 1
+    },
+    {
+      "player1": "Chad",
+      "player2": "Julie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Chad",
+      "player2": "Twila",
+      "votes_together": 1
+    },
+    {
+      "player1": "Chris",
+      "player2": "Julie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Chris",
+      "player2": "Twila",
+      "votes_together": 1
+    },
+    {
+      "player1": "John K",
+      "player2": "Julie",
+      "votes_together": 1
+    },
+    {
+      "player1": "John K",
+      "player2": "Twila",
+      "votes_together": 1
+    },
+    {
+      "player1": "Julie",
+      "player2": "Lea",
+      "votes_together": 1
+    },
+    {
+      "player1": "Lea",
+      "player2": "Twila",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ami",
+      "player2": "Rory",
+      "votes_together": 1
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Rory",
+      "votes_together": 1
+    },
+    {
+      "player1": "LeAnn",
+      "player2": "Rory",
+      "votes_together": 1
+    },
+    {
+      "player1": "Lisa",
+      "player2": "Rory",
+      "votes_together": 1
+    },
+    {
+      "player1": "Rory",
+      "player2": "Scout",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Brady",
+      "player2": "Chad",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brady",
+      "player2": "Chris",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brady",
+      "player2": "John K",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brady",
+      "player2": "Lea",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chad",
+      "player2": "Chris",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chad",
+      "player2": "John K",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chad",
+      "player2": "Lea",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chris",
+      "player2": "John K",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chris",
+      "player2": "Lea",
+      "votes_together": 3
+    },
+    {
+      "player1": "John K",
+      "player2": "Lea",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "Eliza",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "LeAnn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "Lisa",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "Scout",
+      "votes_together": 3
+    },
+    {
+      "player1": "Eliza",
+      "player2": "LeAnn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Lisa",
+      "votes_together": 3
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Scout",
+      "votes_together": 3
+    },
+    {
+      "player1": "Julie",
+      "player2": "Twila",
+      "votes_together": 3
+    },
+    {
+      "player1": "LeAnn",
+      "player2": "Lisa",
+      "votes_together": 3
+    },
+    {
+      "player1": "LeAnn",
+      "player2": "Scout",
+      "votes_together": 3
+    },
+    {
+      "player1": "Lisa",
+      "player2": "Scout",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brady",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brady",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chad",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chad",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chris",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chris",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "John K",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "John K",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lea",
+      "player2": "Rory",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lea",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rory",
+      "player2": "Travis",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Julie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Twila",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Julie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Twila",
+      "votes_together": 2
+    },
+    {
+      "player1": "Julie",
+      "player2": "LeAnn",
+      "votes_together": 2
+    },
+    {
+      "player1": "Julie",
+      "player2": "Lisa",
+      "votes_together": 2
+    },
+    {
+      "player1": "Julie",
+      "player2": "Scout",
+      "votes_together": 2
+    },
+    {
+      "player1": "LeAnn",
+      "player2": "Twila",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lisa",
+      "player2": "Twila",
+      "votes_together": 2
+    },
+    {
+      "player1": "Scout",
+      "player2": "Twila",
+      "votes_together": 2
+    }
+  ]
+}

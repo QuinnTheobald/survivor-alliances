@@ -1,0 +1,381 @@
+{
+  "season": 6,
+  "season_name": "The Amazon",
+  "year": 2003,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 7,
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 6,
+  "contestants": [
+    "Ryan",
+    "Janet",
+    "Daniel",
+    "JoAnna",
+    "Jeanne",
+    "Shawna",
+    "Roger",
+    "Dave",
+    "Deena",
+    "Alex",
+    "Christy",
+    "Heidi",
+    "Rob",
+    "Butch",
+    "Matthew",
+    "Jenna"
+  ],
+  "finalists": [
+    "Jenna",
+    "Matthew"
+  ],
+  "winner": "Jenna",
+  "all_alignments": [
+    {
+      "player1": "Butch",
+      "player2": "Dave",
+      "votes_together": 4
+    },
+    {
+      "player1": "Butch",
+      "player2": "Roger",
+      "votes_together": 4
+    },
+    {
+      "player1": "Dave",
+      "player2": "Roger",
+      "votes_together": 4
+    },
+    {
+      "player1": "Alex",
+      "player2": "Butch",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Dave",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Matthew",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Rob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Roger",
+      "votes_together": 2
+    },
+    {
+      "player1": "Butch",
+      "player2": "Matthew",
+      "votes_together": 2
+    },
+    {
+      "player1": "Butch",
+      "player2": "Rob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dave",
+      "player2": "Matthew",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dave",
+      "player2": "Rob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Matthew",
+      "player2": "Rob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Matthew",
+      "player2": "Roger",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rob",
+      "player2": "Roger",
+      "votes_together": 2
+    },
+    {
+      "player1": "Christy",
+      "player2": "Deena",
+      "votes_together": 2
+    },
+    {
+      "player1": "Christy",
+      "player2": "Heidi",
+      "votes_together": 2
+    },
+    {
+      "player1": "Christy",
+      "player2": "Jenna",
+      "votes_together": 2
+    },
+    {
+      "player1": "Deena",
+      "player2": "Heidi",
+      "votes_together": 2
+    },
+    {
+      "player1": "Deena",
+      "player2": "Jenna",
+      "votes_together": 2
+    },
+    {
+      "player1": "Deena",
+      "player2": "Jeanne",
+      "votes_together": 2
+    },
+    {
+      "player1": "Heidi",
+      "player2": "Jenna",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeanne",
+      "player2": "JoAnna",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Daniel",
+      "votes_together": 1
+    },
+    {
+      "player1": "Butch",
+      "player2": "Daniel",
+      "votes_together": 1
+    },
+    {
+      "player1": "Daniel",
+      "player2": "Dave",
+      "votes_together": 1
+    },
+    {
+      "player1": "Daniel",
+      "player2": "Matthew",
+      "votes_together": 1
+    },
+    {
+      "player1": "Daniel",
+      "player2": "Rob",
+      "votes_together": 1
+    },
+    {
+      "player1": "Daniel",
+      "player2": "Roger",
+      "votes_together": 1
+    },
+    {
+      "player1": "Christy",
+      "player2": "JoAnna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Christy",
+      "player2": "Jeanne",
+      "votes_together": 1
+    },
+    {
+      "player1": "Deena",
+      "player2": "JoAnna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Heidi",
+      "player2": "JoAnna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Heidi",
+      "player2": "Jeanne",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenna",
+      "player2": "JoAnna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jeanne",
+      "player2": "Jenna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Christy",
+      "player2": "Shawna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Deena",
+      "player2": "Shawna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Heidi",
+      "player2": "Shawna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Shawna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Butch",
+      "player2": "Shawna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dave",
+      "player2": "Shawna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Roger",
+      "player2": "Shawna",
+      "votes_together": 1
+    },
+    {
+      "player1": "Butch",
+      "player2": "Deena",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dave",
+      "player2": "Deena",
+      "votes_together": 1
+    },
+    {
+      "player1": "Deena",
+      "player2": "Roger",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Butch",
+      "player2": "Dave",
+      "votes_together": 4
+    },
+    {
+      "player1": "Butch",
+      "player2": "Roger",
+      "votes_together": 4
+    },
+    {
+      "player1": "Dave",
+      "player2": "Roger",
+      "votes_together": 4
+    },
+    {
+      "player1": "Alex",
+      "player2": "Butch",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Dave",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Matthew",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Rob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Roger",
+      "votes_together": 2
+    },
+    {
+      "player1": "Butch",
+      "player2": "Matthew",
+      "votes_together": 2
+    },
+    {
+      "player1": "Butch",
+      "player2": "Rob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dave",
+      "player2": "Matthew",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dave",
+      "player2": "Rob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Matthew",
+      "player2": "Rob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Matthew",
+      "player2": "Roger",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rob",
+      "player2": "Roger",
+      "votes_together": 2
+    },
+    {
+      "player1": "Christy",
+      "player2": "Deena",
+      "votes_together": 2
+    },
+    {
+      "player1": "Christy",
+      "player2": "Heidi",
+      "votes_together": 2
+    },
+    {
+      "player1": "Christy",
+      "player2": "Jenna",
+      "votes_together": 2
+    },
+    {
+      "player1": "Deena",
+      "player2": "Heidi",
+      "votes_together": 2
+    },
+    {
+      "player1": "Deena",
+      "player2": "Jenna",
+      "votes_together": 2
+    },
+    {
+      "player1": "Deena",
+      "player2": "Jeanne",
+      "votes_together": 2
+    },
+    {
+      "player1": "Heidi",
+      "player2": "Jenna",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeanne",
+      "player2": "JoAnna",
+      "votes_together": 2
+    }
+  ]
+}

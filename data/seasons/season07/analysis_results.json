@@ -1,0 +1,372 @@
+{
+  "season": 7,
+  "season_name": "Pearl Islands",
+  "year": 2003,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 7,
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 6,
+  "contestants": [
+    "Nicole",
+    "Ryan O",
+    "Lillian",
+    "Burton",
+    "Michelle",
+    "Trish",
+    "Shawn",
+    "Osten",
+    "Andrew",
+    "Ryan S",
+    "Rupert",
+    "Tijuana",
+    "Christa",
+    "Jon",
+    "Darrah",
+    "Lillian",
+    "Sandra"
+  ],
+  "finalists": [
+    "Sandra",
+    "Lillian"
+  ],
+  "winner": "Sandra",
+  "all_alignments": [
+    {
+      "player1": "Christa",
+      "player2": "Jon",
+      "votes_together": 3
+    },
+    {
+      "player1": "Christa",
+      "player2": "Rupert",
+      "votes_together": 3
+    },
+    {
+      "player1": "Christa",
+      "player2": "Sandra",
+      "votes_together": 3
+    },
+    {
+      "player1": "Christa",
+      "player2": "Shawn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jon",
+      "player2": "Rupert",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jon",
+      "player2": "Sandra",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jon",
+      "player2": "Shawn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Rupert",
+      "player2": "Sandra",
+      "votes_together": 3
+    },
+    {
+      "player1": "Rupert",
+      "player2": "Shawn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Sandra",
+      "player2": "Shawn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Darrah",
+      "votes_together": 2
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Osten",
+      "votes_together": 2
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Ryan S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Tijuana",
+      "votes_together": 2
+    },
+    {
+      "player1": "Darrah",
+      "player2": "Osten",
+      "votes_together": 2
+    },
+    {
+      "player1": "Darrah",
+      "player2": "Ryan S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Darrah",
+      "player2": "Tijuana",
+      "votes_together": 2
+    },
+    {
+      "player1": "Osten",
+      "player2": "Ryan S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Osten",
+      "player2": "Tijuana",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ryan S",
+      "player2": "Tijuana",
+      "votes_together": 2
+    },
+    {
+      "player1": "Christa",
+      "player2": "Trish",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jon",
+      "player2": "Trish",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rupert",
+      "player2": "Trish",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sandra",
+      "player2": "Trish",
+      "votes_together": 2
+    },
+    {
+      "player1": "Shawn",
+      "player2": "Trish",
+      "votes_together": 2
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Lillian",
+      "votes_together": 1
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Ryan O",
+      "votes_together": 1
+    },
+    {
+      "player1": "Darrah",
+      "player2": "Lillian",
+      "votes_together": 1
+    },
+    {
+      "player1": "Darrah",
+      "player2": "Ryan O",
+      "votes_together": 1
+    },
+    {
+      "player1": "Lillian",
+      "player2": "Osten",
+      "votes_together": 1
+    },
+    {
+      "player1": "Lillian",
+      "player2": "Ryan O",
+      "votes_together": 1
+    },
+    {
+      "player1": "Lillian",
+      "player2": "Ryan S",
+      "votes_together": 1
+    },
+    {
+      "player1": "Lillian",
+      "player2": "Tijuana",
+      "votes_together": 1
+    },
+    {
+      "player1": "Osten",
+      "player2": "Ryan O",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ryan O",
+      "player2": "Ryan S",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ryan O",
+      "player2": "Tijuana",
+      "votes_together": 1
+    },
+    {
+      "player1": "Christa",
+      "player2": "Michelle",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jon",
+      "player2": "Michelle",
+      "votes_together": 1
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Rupert",
+      "votes_together": 1
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Sandra",
+      "votes_together": 1
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Shawn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Trish",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Christa",
+      "player2": "Jon",
+      "votes_together": 3
+    },
+    {
+      "player1": "Christa",
+      "player2": "Rupert",
+      "votes_together": 3
+    },
+    {
+      "player1": "Christa",
+      "player2": "Sandra",
+      "votes_together": 3
+    },
+    {
+      "player1": "Christa",
+      "player2": "Shawn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jon",
+      "player2": "Rupert",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jon",
+      "player2": "Sandra",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jon",
+      "player2": "Shawn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Rupert",
+      "player2": "Sandra",
+      "votes_together": 3
+    },
+    {
+      "player1": "Rupert",
+      "player2": "Shawn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Sandra",
+      "player2": "Shawn",
+      "votes_together": 3
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Darrah",
+      "votes_together": 2
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Osten",
+      "votes_together": 2
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Ryan S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Andrew",
+      "player2": "Tijuana",
+      "votes_together": 2
+    },
+    {
+      "player1": "Darrah",
+      "player2": "Osten",
+      "votes_together": 2
+    },
+    {
+      "player1": "Darrah",
+      "player2": "Ryan S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Darrah",
+      "player2": "Tijuana",
+      "votes_together": 2
+    },
+    {
+      "player1": "Osten",
+      "player2": "Ryan S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Osten",
+      "player2": "Tijuana",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ryan S",
+      "player2": "Tijuana",
+      "votes_together": 2
+    },
+    {
+      "player1": "Christa",
+      "player2": "Trish",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jon",
+      "player2": "Trish",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rupert",
+      "player2": "Trish",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sandra",
+      "player2": "Trish",
+      "votes_together": 2
+    },
+    {
+      "player1": "Shawn",
+      "player2": "Trish",
+      "votes_together": 2
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "season": 1,
+  "season_name": "Borneo",
+  "analysis_type": "pre_merge_only",
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 14,
+  "contestants": [
+    "Sonja",
+    "B.B.",
+    "Stacey",
+    "Ramona",
+    "Dirk",
+    "Joel",
+    "Gretchen",
+    "Greg",
+    "Jenna",
+    "Gervase",
+    "Colleen",
+    "Sean",
+    "Sue",
+    "Rudy",
+    "Kelly",
+    "Richard"
+  ],
+  "finalists": [
+    "Richard",
+    "Kelly"
+  ],
+  "winner": "Richard",
+  "all_alignments": [
+    {
+      "player1": "Colleen",
+      "player2": "Gervase",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Greg",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Richard",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Rudy",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Greg",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Richard",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Rudy",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Greg",
+      "player2": "Richard",
+      "votes_together": 6
+    },
+    {
+      "player1": "Greg",
+      "player2": "Rudy",
+      "votes_together": 6
+    },
+    {
+      "player1": "Greg",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Greg",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Richard",
+      "player2": "Rudy",
+      "votes_together": 6
+    },
+    {
+      "player1": "Richard",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Richard",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Rudy",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Rudy",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Sean",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Kelly",
+      "votes_together": 5
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Kelly",
+      "votes_together": 5
+    },
+    {
+      "player1": "Greg",
+      "player2": "Kelly",
+      "votes_together": 5
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Richard",
+      "votes_together": 5
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Rudy",
+      "votes_together": 5
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Sean",
+      "votes_together": 5
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Sue",
+      "votes_together": 5
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Jenna",
+      "votes_together": 3
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Jenna",
+      "votes_together": 3
+    },
+    {
+      "player1": "Greg",
+      "player2": "Jenna",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Richard",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Rudy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Sean",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Sue",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Dirk",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Gervase",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Greg",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Jenna",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Richard",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Rudy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Sean",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Sue",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Greg",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Richard",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rudy",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sean",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Stacey",
+      "player2": "Sue",
+      "votes_together": 2
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Colleen",
+      "votes_together": 1
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Gervase",
+      "votes_together": 1
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Greg",
+      "votes_together": 1
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Jenna",
+      "votes_together": 1
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Kelly",
+      "votes_together": 1
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Richard",
+      "votes_together": 1
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Rudy",
+      "votes_together": 1
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Sean",
+      "votes_together": 1
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Stacey",
+      "votes_together": 1
+    },
+    {
+      "player1": "B.B.",
+      "player2": "Sue",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Stacey",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Ramona",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Joel",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Colleen",
+      "player2": "Gervase",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Greg",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Richard",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Rudy",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Greg",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Richard",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Rudy",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Greg",
+      "player2": "Richard",
+      "votes_together": 6
+    },
+    {
+      "player1": "Greg",
+      "player2": "Rudy",
+      "votes_together": 6
+    },
+    {
+      "player1": "Greg",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Greg",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Richard",
+      "player2": "Rudy",
+      "votes_together": 6
+    },
+    {
+      "player1": "Richard",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Richard",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Rudy",
+      "player2": "Sean",
+      "votes_together": 6
+    },
+    {
+      "player1": "Rudy",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Sean",
+      "player2": "Sue",
+      "votes_together": 6
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Kelly",
+      "votes_together": 5
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Kelly",
+      "votes_together": 5
+    },
+    {
+      "player1": "Greg",
+      "player2": "Kelly",
+      "votes_together": 5
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Richard",
+      "votes_together": 5
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Rudy",
+      "votes_together": 5
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Sean",
+      "votes_together": 5
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Sue",
+      "votes_together": 5
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Jenna",
+      "votes_together": 3
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Jenna",
+      "votes_together": 3
+    },
+    {
+      "player1": "Greg",
+      "player2": "Jenna",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Richard",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Rudy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Sean",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Sue",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Dirk",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Gervase",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Greg",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Jenna",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Richard",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Rudy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Sean",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dirk",
+      "player2": "Sue",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colleen",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gervase",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Greg",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenna",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Richard",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rudy",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sean",
+      "player2": "Stacey",
+      "votes_together": 2
+    },
+    {
+      "player1": "Stacey",
+      "player2": "Sue",
+      "votes_together": 2
+    }
+  ]
+}

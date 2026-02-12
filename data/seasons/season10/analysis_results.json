@@ -1,0 +1,425 @@
+{
+  "season": 10,
+  "season_name": "Palau",
+  "year": 2005,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 8,
+  "total_tribal_councils": 7,
+  "total_tribal_councils_all_season": 7,
+  "contestants": [
+    "Wanda",
+    "Jonathan",
+    "Jolanda",
+    "Ashlee",
+    "Jeff",
+    "Kim",
+    "Willard",
+    "Angie",
+    "James",
+    "Ibrehem",
+    "Bobby Jon",
+    "Stephenie",
+    "Coby",
+    "Janu",
+    "Gregg",
+    "Caryn",
+    "Jenn",
+    "Ian",
+    "Katie",
+    "Tom"
+  ],
+  "finalists": [
+    "Tom",
+    "Katie"
+  ],
+  "winner": "Tom",
+  "all_alignments": [
+    {
+      "player1": "Bobby Jon",
+      "player2": "Ibrehem",
+      "votes_together": 6
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Stephenie",
+      "votes_together": 6
+    },
+    {
+      "player1": "Ibrehem",
+      "player2": "Stephenie",
+      "votes_together": 6
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "James",
+      "votes_together": 5
+    },
+    {
+      "player1": "Ibrehem",
+      "player2": "James",
+      "votes_together": 5
+    },
+    {
+      "player1": "James",
+      "player2": "Stephenie",
+      "votes_together": 5
+    },
+    {
+      "player1": "Angie",
+      "player2": "Bobby Jon",
+      "votes_together": 4
+    },
+    {
+      "player1": "Angie",
+      "player2": "Ibrehem",
+      "votes_together": 4
+    },
+    {
+      "player1": "Angie",
+      "player2": "James",
+      "votes_together": 4
+    },
+    {
+      "player1": "Angie",
+      "player2": "Stephenie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Angie",
+      "player2": "Kim",
+      "votes_together": 3
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Kim",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ibrehem",
+      "player2": "Kim",
+      "votes_together": 3
+    },
+    {
+      "player1": "James",
+      "player2": "Kim",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kim",
+      "player2": "Stephenie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Angie",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ibrehem",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "James",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Kim",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Stephenie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Angie",
+      "player2": "Ashlee",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ashlee",
+      "player2": "Bobby Jon",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ashlee",
+      "player2": "Ibrehem",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ashlee",
+      "player2": "James",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ashlee",
+      "player2": "Jeff",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ashlee",
+      "player2": "Kim",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ashlee",
+      "player2": "Stephenie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Caryn",
+      "player2": "Coby",
+      "votes_together": 1
+    },
+    {
+      "player1": "Caryn",
+      "player2": "Gregg",
+      "votes_together": 1
+    },
+    {
+      "player1": "Caryn",
+      "player2": "Ian",
+      "votes_together": 1
+    },
+    {
+      "player1": "Caryn",
+      "player2": "Janu",
+      "votes_together": 1
+    },
+    {
+      "player1": "Caryn",
+      "player2": "Jenn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Caryn",
+      "player2": "Katie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Caryn",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coby",
+      "player2": "Gregg",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coby",
+      "player2": "Ian",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coby",
+      "player2": "Janu",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coby",
+      "player2": "Jenn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coby",
+      "player2": "Katie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coby",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gregg",
+      "player2": "Ian",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gregg",
+      "player2": "Janu",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gregg",
+      "player2": "Jenn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gregg",
+      "player2": "Katie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gregg",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ian",
+      "player2": "Janu",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ian",
+      "player2": "Jenn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ian",
+      "player2": "Katie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ian",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Janu",
+      "player2": "Jenn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Janu",
+      "player2": "Katie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Janu",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenn",
+      "player2": "Katie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jenn",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Katie",
+      "player2": "Tom",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Bobby Jon",
+      "player2": "Ibrehem",
+      "votes_together": 6
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Stephenie",
+      "votes_together": 6
+    },
+    {
+      "player1": "Ibrehem",
+      "player2": "Stephenie",
+      "votes_together": 6
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "James",
+      "votes_together": 5
+    },
+    {
+      "player1": "Ibrehem",
+      "player2": "James",
+      "votes_together": 5
+    },
+    {
+      "player1": "James",
+      "player2": "Stephenie",
+      "votes_together": 5
+    },
+    {
+      "player1": "Angie",
+      "player2": "Bobby Jon",
+      "votes_together": 4
+    },
+    {
+      "player1": "Angie",
+      "player2": "Ibrehem",
+      "votes_together": 4
+    },
+    {
+      "player1": "Angie",
+      "player2": "James",
+      "votes_together": 4
+    },
+    {
+      "player1": "Angie",
+      "player2": "Stephenie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Angie",
+      "player2": "Kim",
+      "votes_together": 3
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Kim",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ibrehem",
+      "player2": "Kim",
+      "votes_together": 3
+    },
+    {
+      "player1": "James",
+      "player2": "Kim",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kim",
+      "player2": "Stephenie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Angie",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ibrehem",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "James",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Kim",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Stephenie",
+      "votes_together": 2
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "season": 3,
+  "season_name": "Africa",
+  "year": 2001,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 7,
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 6,
+  "contestants": [
+    "Jessie",
+    "Carl",
+    "Linda",
+    "Silas",
+    "Lindsey",
+    "Clarence",
+    "Kelly",
+    "Brandon",
+    "Frank",
+    "Kim P",
+    "Teresa",
+    "Tom",
+    "Lex",
+    "Kim J",
+    "Ethan"
+  ],
+  "finalists": [
+    "Ethan",
+    "Kim J"
+  ],
+  "winner": "Ethan",
+  "all_alignments": [
+    {
+      "player1": "Frank",
+      "player2": "Teresa",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kim P",
+      "player2": "Lindsey",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kim P",
+      "player2": "Silas",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kim P",
+      "player2": "Teresa",
+      "votes_together": 3
+    },
+    {
+      "player1": "Lindsey",
+      "player2": "Silas",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Ethan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Kelly",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Kim J",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Lex",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Kelly",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Kim J",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Lex",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Kim J",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Lex",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kim J",
+      "player2": "Lex",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kim J",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lex",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Frank",
+      "player2": "Kim P",
+      "votes_together": 2
+    },
+    {
+      "player1": "Frank",
+      "player2": "Linda",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lindsey",
+      "player2": "Teresa",
+      "votes_together": 2
+    },
+    {
+      "player1": "Silas",
+      "player2": "Teresa",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Clarence",
+      "votes_together": 1
+    },
+    {
+      "player1": "Clarence",
+      "player2": "Ethan",
+      "votes_together": 1
+    },
+    {
+      "player1": "Clarence",
+      "player2": "Kelly",
+      "votes_together": 1
+    },
+    {
+      "player1": "Clarence",
+      "player2": "Kim J",
+      "votes_together": 1
+    },
+    {
+      "player1": "Clarence",
+      "player2": "Lex",
+      "votes_together": 1
+    },
+    {
+      "player1": "Clarence",
+      "player2": "Tom",
+      "votes_together": 1
+    },
+    {
+      "player1": "Frank",
+      "player2": "Lindsey",
+      "votes_together": 1
+    },
+    {
+      "player1": "Frank",
+      "player2": "Silas",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kim P",
+      "player2": "Linda",
+      "votes_together": 1
+    },
+    {
+      "player1": "Linda",
+      "player2": "Lindsey",
+      "votes_together": 1
+    },
+    {
+      "player1": "Linda",
+      "player2": "Silas",
+      "votes_together": 1
+    },
+    {
+      "player1": "Linda",
+      "player2": "Teresa",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Frank",
+      "player2": "Teresa",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kim P",
+      "player2": "Lindsey",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kim P",
+      "player2": "Silas",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kim P",
+      "player2": "Teresa",
+      "votes_together": 3
+    },
+    {
+      "player1": "Lindsey",
+      "player2": "Silas",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Ethan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Kelly",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Kim J",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Lex",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Kelly",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Kim J",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Lex",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ethan",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Kim J",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Lex",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kim J",
+      "player2": "Lex",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kim J",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lex",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Frank",
+      "player2": "Kim P",
+      "votes_together": 2
+    },
+    {
+      "player1": "Frank",
+      "player2": "Linda",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lindsey",
+      "player2": "Teresa",
+      "votes_together": 2
+    },
+    {
+      "player1": "Silas",
+      "player2": "Teresa",
+      "votes_together": 2
+    }
+  ]
+}

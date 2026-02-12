@@ -1,0 +1,315 @@
+{
+  "season": 4,
+  "season_name": "Marquesas",
+  "year": 2002,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 7,
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 6,
+  "contestants": [
+    "Peter",
+    "Patricia",
+    "Hunter",
+    "Sarah",
+    "Gabriel",
+    "Gina",
+    "John",
+    "Zoe",
+    "Tammy",
+    "Robert",
+    "Sean",
+    "Paschal",
+    "Kathy",
+    "Neleh",
+    "Vecepia"
+  ],
+  "finalists": [
+    "Vecepia",
+    "Neleh"
+  ],
+  "winner": "Vecepia",
+  "all_alignments": [
+    {
+      "player1": "Neleh",
+      "player2": "Vecepia",
+      "votes_together": 5
+    },
+    {
+      "player1": "Gina",
+      "player2": "Neleh",
+      "votes_together": 4
+    },
+    {
+      "player1": "Gina",
+      "player2": "Vecepia",
+      "votes_together": 4
+    },
+    {
+      "player1": "John",
+      "player2": "Neleh",
+      "votes_together": 4
+    },
+    {
+      "player1": "John",
+      "player2": "Vecepia",
+      "votes_together": 4
+    },
+    {
+      "player1": "Gina",
+      "player2": "John",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Paschal",
+      "votes_together": 3
+    },
+    {
+      "player1": "Neleh",
+      "player2": "Paschal",
+      "votes_together": 3
+    },
+    {
+      "player1": "Paschal",
+      "player2": "Vecepia",
+      "votes_together": 3
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "Gina",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "Neleh",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "Sarah",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "Vecepia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gina",
+      "player2": "Sarah",
+      "votes_together": 2
+    },
+    {
+      "player1": "Neleh",
+      "player2": "Sarah",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sarah",
+      "player2": "Vecepia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gina",
+      "player2": "Paschal",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "Patricia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gina",
+      "player2": "Patricia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Neleh",
+      "player2": "Patricia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Patricia",
+      "player2": "Sarah",
+      "votes_together": 1
+    },
+    {
+      "player1": "Patricia",
+      "player2": "Vecepia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "John",
+      "votes_together": 1
+    },
+    {
+      "player1": "John",
+      "player2": "Sarah",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Paschal",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Robert",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Sean",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Tammy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Zoe",
+      "votes_together": 1
+    },
+    {
+      "player1": "Paschal",
+      "player2": "Robert",
+      "votes_together": 1
+    },
+    {
+      "player1": "Paschal",
+      "player2": "Sean",
+      "votes_together": 1
+    },
+    {
+      "player1": "Paschal",
+      "player2": "Tammy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Paschal",
+      "player2": "Zoe",
+      "votes_together": 1
+    },
+    {
+      "player1": "Robert",
+      "player2": "Sean",
+      "votes_together": 1
+    },
+    {
+      "player1": "Robert",
+      "player2": "Tammy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Robert",
+      "player2": "Zoe",
+      "votes_together": 1
+    },
+    {
+      "player1": "Sean",
+      "player2": "Tammy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Sean",
+      "player2": "Zoe",
+      "votes_together": 1
+    },
+    {
+      "player1": "Tammy",
+      "player2": "Zoe",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Neleh",
+      "player2": "Vecepia",
+      "votes_together": 5
+    },
+    {
+      "player1": "Gina",
+      "player2": "Neleh",
+      "votes_together": 4
+    },
+    {
+      "player1": "Gina",
+      "player2": "Vecepia",
+      "votes_together": 4
+    },
+    {
+      "player1": "John",
+      "player2": "Neleh",
+      "votes_together": 4
+    },
+    {
+      "player1": "John",
+      "player2": "Vecepia",
+      "votes_together": 4
+    },
+    {
+      "player1": "Gina",
+      "player2": "John",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Paschal",
+      "votes_together": 3
+    },
+    {
+      "player1": "Neleh",
+      "player2": "Paschal",
+      "votes_together": 3
+    },
+    {
+      "player1": "Paschal",
+      "player2": "Vecepia",
+      "votes_together": 3
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "Gina",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "Neleh",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "Sarah",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gabriel",
+      "player2": "Vecepia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gina",
+      "player2": "Sarah",
+      "votes_together": 2
+    },
+    {
+      "player1": "Neleh",
+      "player2": "Sarah",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sarah",
+      "player2": "Vecepia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gina",
+      "player2": "Paschal",
+      "votes_together": 2
+    }
+  ]
+}

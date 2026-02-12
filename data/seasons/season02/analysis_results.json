@@ -1,0 +1,360 @@
+{
+  "season": 2,
+  "season_name": "The Australian Outback",
+  "year": 2001,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 7,
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 6,
+  "contestants": [
+    "Debb",
+    "Kel",
+    "Maralyn",
+    "Mitchell",
+    "Kimmi",
+    "Jeff",
+    "Alicia",
+    "Jerri",
+    "Nick",
+    "Amber",
+    "Rodger",
+    "Elisabeth",
+    "Keith",
+    "Tina",
+    "Colby"
+  ],
+  "finalists": [
+    "Tina",
+    "Colby"
+  ],
+  "winner": "Tina",
+  "all_alignments": [
+    {
+      "player1": "Alicia",
+      "player2": "Michael",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Nick",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Rodger",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michael",
+      "player2": "Nick",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michael",
+      "player2": "Rodger",
+      "votes_together": 3
+    },
+    {
+      "player1": "Nick",
+      "player2": "Rodger",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amber",
+      "player2": "Colby",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amber",
+      "player2": "Jerri",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amber",
+      "player2": "Keith",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amber",
+      "player2": "Tina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "Jerri",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "Keith",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "Tina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Keith",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Tina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Keith",
+      "player2": "Tina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Elisabeth",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "Elisabeth",
+      "player2": "Michael",
+      "votes_together": 2
+    },
+    {
+      "player1": "Elisabeth",
+      "player2": "Nick",
+      "votes_together": 2
+    },
+    {
+      "player1": "Elisabeth",
+      "player2": "Rodger",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Michael",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Nick",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Rodger",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Kimmi",
+      "votes_together": 1
+    },
+    {
+      "player1": "Elisabeth",
+      "player2": "Jeff",
+      "votes_together": 1
+    },
+    {
+      "player1": "Elisabeth",
+      "player2": "Kimmi",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Kimmi",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kimmi",
+      "player2": "Michael",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kimmi",
+      "player2": "Nick",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kimmi",
+      "player2": "Rodger",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amber",
+      "player2": "Maralyn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Colby",
+      "player2": "Maralyn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Maralyn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Keith",
+      "player2": "Maralyn",
+      "votes_together": 1
+    },
+    {
+      "player1": "Maralyn",
+      "player2": "Tina",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amber",
+      "player2": "Mitchell",
+      "votes_together": 1
+    },
+    {
+      "player1": "Colby",
+      "player2": "Mitchell",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Mitchell",
+      "votes_together": 1
+    },
+    {
+      "player1": "Keith",
+      "player2": "Mitchell",
+      "votes_together": 1
+    },
+    {
+      "player1": "Mitchell",
+      "player2": "Tina",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Alicia",
+      "player2": "Michael",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Nick",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Rodger",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michael",
+      "player2": "Nick",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michael",
+      "player2": "Rodger",
+      "votes_together": 3
+    },
+    {
+      "player1": "Nick",
+      "player2": "Rodger",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amber",
+      "player2": "Colby",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amber",
+      "player2": "Jerri",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amber",
+      "player2": "Keith",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amber",
+      "player2": "Tina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "Jerri",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "Keith",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "Tina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Keith",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Tina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Keith",
+      "player2": "Tina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Elisabeth",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alicia",
+      "player2": "Jeff",
+      "votes_together": 2
+    },
+    {
+      "player1": "Elisabeth",
+      "player2": "Michael",
+      "votes_together": 2
+    },
+    {
+      "player1": "Elisabeth",
+      "player2": "Nick",
+      "votes_together": 2
+    },
+    {
+      "player1": "Elisabeth",
+      "player2": "Rodger",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Michael",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Nick",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jeff",
+      "player2": "Rodger",
+      "votes_together": 2
+    }
+  ]
+}
