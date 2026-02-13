@@ -1,0 +1,472 @@
+{
+  "season": 15,
+  "season_name": "China",
+  "year": 2007,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 8,
+  "total_tribal_councils": 7,
+  "total_tribal_councils_all_season": 7,
+  "contestants": [
+    "Chicken",
+    "Ashley",
+    "Leslie",
+    "Dave",
+    "Aaron",
+    "Sherea",
+    "Jaime",
+    "Jean-Robert",
+    "Frosti",
+    "James",
+    "Peih-Gee",
+    "Erik",
+    "Denise",
+    "Amanda",
+    "Courtney",
+    "Todd"
+  ],
+  "finalists": [
+    "Todd",
+    "Courtney",
+    "Amanda"
+  ],
+  "winner": "Todd",
+  "all_alignments": [
+    {
+      "player1": "Amanda",
+      "player2": "Courtney",
+      "votes_together": 4
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Denise",
+      "votes_together": 4
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Jean-Robert",
+      "votes_together": 4
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Todd",
+      "votes_together": 4
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Denise",
+      "votes_together": 4
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Jean-Robert",
+      "votes_together": 4
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Todd",
+      "votes_together": 4
+    },
+    {
+      "player1": "Denise",
+      "player2": "Jean-Robert",
+      "votes_together": 4
+    },
+    {
+      "player1": "Denise",
+      "player2": "Todd",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jean-Robert",
+      "player2": "Todd",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jaime",
+      "player2": "Peih-Gee",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Frosti",
+      "votes_together": 3
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Frosti",
+      "votes_together": 3
+    },
+    {
+      "player1": "Denise",
+      "player2": "Frosti",
+      "votes_together": 3
+    },
+    {
+      "player1": "Frosti",
+      "player2": "Jean-Robert",
+      "votes_together": 3
+    },
+    {
+      "player1": "Frosti",
+      "player2": "Todd",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jaime",
+      "player2": "Sherea",
+      "votes_together": 2
+    },
+    {
+      "player1": "Peih-Gee",
+      "player2": "Sherea",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Amanda",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Courtney",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Denise",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Frosti",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Jean-Robert",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Todd",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Jaime",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Peih-Gee",
+      "votes_together": 2
+    },
+    {
+      "player1": "Amanda",
+      "player2": "James",
+      "votes_together": 2
+    },
+    {
+      "player1": "Courtney",
+      "player2": "James",
+      "votes_together": 2
+    },
+    {
+      "player1": "Denise",
+      "player2": "James",
+      "votes_together": 2
+    },
+    {
+      "player1": "James",
+      "player2": "Jean-Robert",
+      "votes_together": 2
+    },
+    {
+      "player1": "James",
+      "player2": "Todd",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Dave",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Jaime",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Peih-Gee",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Sherea",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dave",
+      "player2": "Jaime",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dave",
+      "player2": "Peih-Gee",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dave",
+      "player2": "Sherea",
+      "votes_together": 1
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Leslie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Leslie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Leslie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Denise",
+      "player2": "Leslie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Frosti",
+      "player2": "Leslie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jean-Robert",
+      "player2": "Leslie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Leslie",
+      "player2": "Todd",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erik",
+      "player2": "Sherea",
+      "votes_together": 1
+    },
+    {
+      "player1": "Frosti",
+      "player2": "James",
+      "votes_together": 1
+    },
+    {
+      "player1": "Frosti",
+      "player2": "Jaime",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erik",
+      "player2": "Frosti",
+      "votes_together": 1
+    },
+    {
+      "player1": "Frosti",
+      "player2": "Peih-Gee",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Peih-Gee",
+      "votes_together": 1
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Peih-Gee",
+      "votes_together": 1
+    },
+    {
+      "player1": "Denise",
+      "player2": "Peih-Gee",
+      "votes_together": 1
+    },
+    {
+      "player1": "James",
+      "player2": "Peih-Gee",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jean-Robert",
+      "player2": "Peih-Gee",
+      "votes_together": 1
+    },
+    {
+      "player1": "Peih-Gee",
+      "player2": "Todd",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Amanda",
+      "player2": "Courtney",
+      "votes_together": 4
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Denise",
+      "votes_together": 4
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Jean-Robert",
+      "votes_together": 4
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Todd",
+      "votes_together": 4
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Denise",
+      "votes_together": 4
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Jean-Robert",
+      "votes_together": 4
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Todd",
+      "votes_together": 4
+    },
+    {
+      "player1": "Denise",
+      "player2": "Jean-Robert",
+      "votes_together": 4
+    },
+    {
+      "player1": "Denise",
+      "player2": "Todd",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jean-Robert",
+      "player2": "Todd",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jaime",
+      "player2": "Peih-Gee",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Frosti",
+      "votes_together": 3
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Frosti",
+      "votes_together": 3
+    },
+    {
+      "player1": "Denise",
+      "player2": "Frosti",
+      "votes_together": 3
+    },
+    {
+      "player1": "Frosti",
+      "player2": "Jean-Robert",
+      "votes_together": 3
+    },
+    {
+      "player1": "Frosti",
+      "player2": "Todd",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jaime",
+      "player2": "Sherea",
+      "votes_together": 2
+    },
+    {
+      "player1": "Peih-Gee",
+      "player2": "Sherea",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Amanda",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Courtney",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Denise",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Frosti",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Jean-Robert",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aaron",
+      "player2": "Todd",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Jaime",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Peih-Gee",
+      "votes_together": 2
+    },
+    {
+      "player1": "Amanda",
+      "player2": "James",
+      "votes_together": 2
+    },
+    {
+      "player1": "Courtney",
+      "player2": "James",
+      "votes_together": 2
+    },
+    {
+      "player1": "Denise",
+      "player2": "James",
+      "votes_together": 2
+    },
+    {
+      "player1": "James",
+      "player2": "Jean-Robert",
+      "votes_together": 2
+    },
+    {
+      "player1": "James",
+      "player2": "Todd",
+      "votes_together": 2
+    }
+  ]
+}

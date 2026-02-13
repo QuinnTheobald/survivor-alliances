@@ -1,0 +1,618 @@
+{
+  "season": 16,
+  "season_name": "Micronesia - Fans vs Favorites",
+  "year": 2008,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 8,
+  "total_tribal_councils": 7,
+  "total_tribal_councils_all_season": 7,
+  "contestants": [
+    "Fairplay",
+    "Mary",
+    "Mikey B",
+    "Joel",
+    "Chet",
+    "Tracy",
+    "Kathy",
+    "Ami",
+    "Eliza",
+    "Ozzy",
+    "Jason",
+    "James",
+    "Erik",
+    "Alexis",
+    "Natalie",
+    "Cirie",
+    "Amanda",
+    "Parvati"
+  ],
+  "finalists": [
+    "Parvati",
+    "Amanda"
+  ],
+  "winner": "Parvati",
+  "all_alignments": [
+    {
+      "player1": "Ami",
+      "player2": "Cirie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Ami",
+      "player2": "Ozzy",
+      "votes_together": 4
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Ozzy",
+      "votes_together": 4
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Jason",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Kathy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Natalie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chet",
+      "player2": "Erik",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chet",
+      "player2": "Tracy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Tracy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jason",
+      "player2": "Kathy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jason",
+      "player2": "Natalie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Natalie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "Eliza",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Jonathan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Eliza",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Jonathan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Jonathan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Ozzy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Ozzy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ozzy",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Chet",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Erik",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Joel",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chet",
+      "player2": "Jason",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chet",
+      "player2": "Joel",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chet",
+      "player2": "Kathy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chet",
+      "player2": "Natalie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Jason",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Joel",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Kathy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Natalie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jason",
+      "player2": "Joel",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jason",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Joel",
+      "player2": "Kathy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Joel",
+      "player2": "Natalie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Joel",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Natalie",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Erik",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Erik",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Ozzy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Yau-Man",
+      "votes_together": 1
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Yau-Man",
+      "votes_together": 1
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Yau-Man",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Yau-Man",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ozzy",
+      "player2": "Yau-Man",
+      "votes_together": 1
+    },
+    {
+      "player1": "Parvati",
+      "player2": "Yau-Man",
+      "votes_together": 1
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Mikey B",
+      "votes_together": 1
+    },
+    {
+      "player1": "Chet",
+      "player2": "Mikey B",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erik",
+      "player2": "Mikey B",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jason",
+      "player2": "Mikey B",
+      "votes_together": 1
+    },
+    {
+      "player1": "Joel",
+      "player2": "Mikey B",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Mikey B",
+      "votes_together": 1
+    },
+    {
+      "player1": "Mikey B",
+      "player2": "Natalie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Mikey B",
+      "player2": "Tracy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ami",
+      "player2": "Chet",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ami",
+      "player2": "Tracy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Chet",
+      "player2": "Cirie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Chet",
+      "player2": "Ozzy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Tracy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ozzy",
+      "player2": "Tracy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Ami",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Cirie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Erik",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Ozzy",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Ami",
+      "player2": "Cirie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Ami",
+      "player2": "Ozzy",
+      "votes_together": 4
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Ozzy",
+      "votes_together": 4
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Jason",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Kathy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Natalie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chet",
+      "player2": "Erik",
+      "votes_together": 3
+    },
+    {
+      "player1": "Chet",
+      "player2": "Tracy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Tracy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jason",
+      "player2": "Kathy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jason",
+      "player2": "Natalie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Natalie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ami",
+      "player2": "Eliza",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Jonathan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Eliza",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Jonathan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Jonathan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Ozzy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Eliza",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Ozzy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ozzy",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Chet",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Erik",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Joel",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alexis",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chet",
+      "player2": "Jason",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chet",
+      "player2": "Joel",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chet",
+      "player2": "Kathy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Chet",
+      "player2": "Natalie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Jason",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Joel",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Kathy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Natalie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jason",
+      "player2": "Joel",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jason",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Joel",
+      "player2": "Kathy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Joel",
+      "player2": "Natalie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Joel",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kathy",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Natalie",
+      "player2": "Tracy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ami",
+      "player2": "Erik",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Erik",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Ozzy",
+      "votes_together": 2
+    }
+  ]
+}

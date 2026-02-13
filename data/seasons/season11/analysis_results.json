@@ -1,0 +1,412 @@
+{
+  "season": 11,
+  "season_name": "Guatemala",
+  "year": 2005,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 7,
+  "total_tribal_councils": 6,
+  "total_tribal_councils_all_season": 6,
+  "contestants": [
+    "Jim",
+    "Morgan",
+    "Brooke",
+    "Blake",
+    "Margaret",
+    "Brian",
+    "Amy",
+    "Brandon",
+    "Bobby Jon",
+    "Jamie",
+    "Gary",
+    "Judd",
+    "Cindy",
+    "Lydia",
+    "Rafe",
+    "Stephenie",
+    "Danni"
+  ],
+  "finalists": [
+    "Danni",
+    "Stephenie"
+  ],
+  "winner": "Danni",
+  "all_alignments": [
+    {
+      "player1": "Cindy",
+      "player2": "Danni",
+      "votes_together": 4
+    },
+    {
+      "player1": "Gary",
+      "player2": "Rafe",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Judd",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amy",
+      "player2": "Gary",
+      "votes_together": 2
+    },
+    {
+      "player1": "Amy",
+      "player2": "Rafe",
+      "votes_together": 2
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Stephenie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gary",
+      "player2": "Lydia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lydia",
+      "player2": "Rafe",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Cindy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Danni",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Margaret",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cindy",
+      "player2": "Judd",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cindy",
+      "player2": "Margaret",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danni",
+      "player2": "Judd",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danni",
+      "player2": "Margaret",
+      "votes_together": 2
+    },
+    {
+      "player1": "Judd",
+      "player2": "Margaret",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cindy",
+      "player2": "Gary",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cindy",
+      "player2": "Rafe",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danni",
+      "player2": "Gary",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danni",
+      "player2": "Rafe",
+      "votes_together": 2
+    },
+    {
+      "player1": "Amy",
+      "player2": "Bobby Jon",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amy",
+      "player2": "Brian",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amy",
+      "player2": "Jamie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amy",
+      "player2": "Lydia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amy",
+      "player2": "Stephenie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Brian",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Gary",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Jamie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Lydia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Rafe",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brian",
+      "player2": "Gary",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brian",
+      "player2": "Jamie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brian",
+      "player2": "Lydia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brian",
+      "player2": "Rafe",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brian",
+      "player2": "Stephenie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gary",
+      "player2": "Jamie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gary",
+      "player2": "Stephenie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jamie",
+      "player2": "Lydia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jamie",
+      "player2": "Rafe",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jamie",
+      "player2": "Stephenie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Lydia",
+      "player2": "Stephenie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Rafe",
+      "player2": "Stephenie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Blake",
+      "player2": "Brandon",
+      "votes_together": 1
+    },
+    {
+      "player1": "Blake",
+      "player2": "Cindy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Blake",
+      "player2": "Danni",
+      "votes_together": 1
+    },
+    {
+      "player1": "Blake",
+      "player2": "Judd",
+      "votes_together": 1
+    },
+    {
+      "player1": "Blake",
+      "player2": "Margaret",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Brandon",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Judd",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Stephenie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Judd",
+      "player2": "Stephenie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amy",
+      "player2": "Cindy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Amy",
+      "player2": "Danni",
+      "votes_together": 1
+    },
+    {
+      "player1": "Cindy",
+      "player2": "Lydia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Danni",
+      "player2": "Lydia",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Cindy",
+      "player2": "Danni",
+      "votes_together": 4
+    },
+    {
+      "player1": "Gary",
+      "player2": "Rafe",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Judd",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amy",
+      "player2": "Gary",
+      "votes_together": 2
+    },
+    {
+      "player1": "Amy",
+      "player2": "Rafe",
+      "votes_together": 2
+    },
+    {
+      "player1": "Bobby Jon",
+      "player2": "Stephenie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gary",
+      "player2": "Lydia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Lydia",
+      "player2": "Rafe",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Cindy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Danni",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brandon",
+      "player2": "Margaret",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cindy",
+      "player2": "Judd",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cindy",
+      "player2": "Margaret",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danni",
+      "player2": "Judd",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danni",
+      "player2": "Margaret",
+      "votes_together": 2
+    },
+    {
+      "player1": "Judd",
+      "player2": "Margaret",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cindy",
+      "player2": "Gary",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cindy",
+      "player2": "Rafe",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danni",
+      "player2": "Gary",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danni",
+      "player2": "Rafe",
+      "votes_together": 2
+    }
+  ]
+}

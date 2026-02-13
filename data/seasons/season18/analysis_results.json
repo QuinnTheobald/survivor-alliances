@@ -1,0 +1,396 @@
+{
+  "season": 18,
+  "season_name": "Tocantins",
+  "year": 2009,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 9,
+  "total_tribal_councils": 8,
+  "total_tribal_councils_all_season": 8,
+  "contestants": [
+    "Carolina",
+    "Candace",
+    "Jerry",
+    "Spencer",
+    "Sandy",
+    "Sydney",
+    "Joe",
+    "Brendan",
+    "Sierra",
+    "Tyson",
+    "Coach",
+    "Debbie",
+    "Erinn",
+    "Taj",
+    "Stephen",
+    "JT"
+  ],
+  "finalists": [
+    "JT",
+    "Stephen"
+  ],
+  "winner": "JT",
+  "all_alignments": [
+    {
+      "player1": "Stephen",
+      "player2": "Taj",
+      "votes_together": 5
+    },
+    {
+      "player1": "JT",
+      "player2": "Joe",
+      "votes_together": 4
+    },
+    {
+      "player1": "JT",
+      "player2": "Stephen",
+      "votes_together": 4
+    },
+    {
+      "player1": "JT",
+      "player2": "Taj",
+      "votes_together": 4
+    },
+    {
+      "player1": "Joe",
+      "player2": "Stephen",
+      "votes_together": 4
+    },
+    {
+      "player1": "Joe",
+      "player2": "Taj",
+      "votes_together": 4
+    },
+    {
+      "player1": "Coach",
+      "player2": "Debbie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erinn",
+      "player2": "Tyson",
+      "votes_together": 3
+    },
+    {
+      "player1": "JT",
+      "player2": "Sydney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Joe",
+      "player2": "Sydney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Stephen",
+      "player2": "Sydney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Sydney",
+      "player2": "Taj",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Coach",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Debbie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Erinn",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Sierra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Tyson",
+      "votes_together": 2
+    },
+    {
+      "player1": "Coach",
+      "player2": "Erinn",
+      "votes_together": 2
+    },
+    {
+      "player1": "Coach",
+      "player2": "Sierra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Coach",
+      "player2": "Tyson",
+      "votes_together": 2
+    },
+    {
+      "player1": "Debbie",
+      "player2": "Erinn",
+      "votes_together": 2
+    },
+    {
+      "player1": "Debbie",
+      "player2": "Sierra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Debbie",
+      "player2": "Tyson",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erinn",
+      "player2": "Sierra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sierra",
+      "player2": "Tyson",
+      "votes_together": 2
+    },
+    {
+      "player1": "JT",
+      "player2": "Sandy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Joe",
+      "player2": "Sandy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sandy",
+      "player2": "Stephen",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sandy",
+      "player2": "Sydney",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sandy",
+      "player2": "Taj",
+      "votes_together": 2
+    },
+    {
+      "player1": "JT",
+      "player2": "Spencer",
+      "votes_together": 1
+    },
+    {
+      "player1": "Joe",
+      "player2": "Spencer",
+      "votes_together": 1
+    },
+    {
+      "player1": "Sandy",
+      "player2": "Spencer",
+      "votes_together": 1
+    },
+    {
+      "player1": "Spencer",
+      "player2": "Stephen",
+      "votes_together": 1
+    },
+    {
+      "player1": "Spencer",
+      "player2": "Sydney",
+      "votes_together": 1
+    },
+    {
+      "player1": "Spencer",
+      "player2": "Taj",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coach",
+      "player2": "Stephen",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coach",
+      "player2": "Taj",
+      "votes_together": 1
+    },
+    {
+      "player1": "Debbie",
+      "player2": "Stephen",
+      "votes_together": 1
+    },
+    {
+      "player1": "Debbie",
+      "player2": "Taj",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erinn",
+      "player2": "JT",
+      "votes_together": 1
+    },
+    {
+      "player1": "JT",
+      "player2": "Tyson",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Stephen",
+      "player2": "Taj",
+      "votes_together": 5
+    },
+    {
+      "player1": "JT",
+      "player2": "Joe",
+      "votes_together": 4
+    },
+    {
+      "player1": "JT",
+      "player2": "Stephen",
+      "votes_together": 4
+    },
+    {
+      "player1": "JT",
+      "player2": "Taj",
+      "votes_together": 4
+    },
+    {
+      "player1": "Joe",
+      "player2": "Stephen",
+      "votes_together": 4
+    },
+    {
+      "player1": "Joe",
+      "player2": "Taj",
+      "votes_together": 4
+    },
+    {
+      "player1": "Coach",
+      "player2": "Debbie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erinn",
+      "player2": "Tyson",
+      "votes_together": 3
+    },
+    {
+      "player1": "JT",
+      "player2": "Sydney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Joe",
+      "player2": "Sydney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Stephen",
+      "player2": "Sydney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Sydney",
+      "player2": "Taj",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Coach",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Debbie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Erinn",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Sierra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brendan",
+      "player2": "Tyson",
+      "votes_together": 2
+    },
+    {
+      "player1": "Coach",
+      "player2": "Erinn",
+      "votes_together": 2
+    },
+    {
+      "player1": "Coach",
+      "player2": "Sierra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Coach",
+      "player2": "Tyson",
+      "votes_together": 2
+    },
+    {
+      "player1": "Debbie",
+      "player2": "Erinn",
+      "votes_together": 2
+    },
+    {
+      "player1": "Debbie",
+      "player2": "Sierra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Debbie",
+      "player2": "Tyson",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erinn",
+      "player2": "Sierra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sierra",
+      "player2": "Tyson",
+      "votes_together": 2
+    },
+    {
+      "player1": "JT",
+      "player2": "Sandy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Joe",
+      "player2": "Sandy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sandy",
+      "player2": "Stephen",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sandy",
+      "player2": "Sydney",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sandy",
+      "player2": "Taj",
+      "votes_together": 2
+    }
+  ]
+}

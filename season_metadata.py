@@ -123,6 +123,126 @@ SEASONS_METADATA = {
         "finalists": ["Tom", "Katie"],
         "winner": "Tom",
         "tribe_merge_name": "Koror"  # Unusual: Koror dominated
+    },
+    11: {
+        "name": "Guatemala",
+        "year": 2005,
+        "location": "Guatemala",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Guatemala",
+        "merge_episode": 7,
+        "episodes": 14,
+        "contestants": 18,
+        "finalists": ["Danni", "Stephenie"],
+        "winner": "Danni",
+        "tribe_merge_name": "Xhakúm"
+    },
+    12: {
+        "name": "Panama - Exile Island",
+        "year": 2006,
+        "location": "Pearl Islands, Panama",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Panama",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 16,
+        "finalists": ["Aras", "Danielle"],
+        "winner": "Aras",
+        "tribe_merge_name": "Gitanos"
+    },
+    13: {
+        "name": "Cook Islands",
+        "year": 2006,
+        "location": "Cook Islands",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Cook_Islands",
+        "merge_episode": 11,
+        "episodes": 14,
+        "contestants": 20,
+        "finalists": ["Yul", "Ozzy", "Becky"],  # Final 3
+        "winner": "Yul",
+        "tribe_merge_name": "Aitutonga"
+    },
+    14: {
+        "name": "Fiji",
+        "year": 2007,
+        "location": "Fiji",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Fiji",
+        "merge_episode": 9,
+        "episodes": 14,
+        "contestants": 19,
+        "finalists": ["Earl", "Cassandra", "Dreamz"],  # Final 3
+        "winner": "Earl",
+        "tribe_merge_name": "Bula Bula"
+    },
+    15: {
+        "name": "China",
+        "year": 2007,
+        "location": "Jiangxi Province, China",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_China",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 16,
+        "finalists": ["Todd", "Courtney", "Amanda"],  # Final 3
+        "winner": "Todd",
+        "tribe_merge_name": "Hae Da Fung"
+    },
+    16: {
+        "name": "Micronesia - Fans vs Favorites",
+        "year": 2008,
+        "location": "Micronesia",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Micronesia",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 20,
+        "finalists": ["Parvati", "Amanda"],  # Final 2 (unusual for this era)
+        "winner": "Parvati",
+        "tribe_merge_name": "Dabu"
+    },
+    17: {
+        "name": "Gabon",
+        "year": 2008,
+        "location": "Gabon",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Gabon",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 18,
+        "finalists": ["Bob", "Susie", "Sugar"],  # Final 3
+        "winner": "Bob",
+        "tribe_merge_name": "Nobag"
+    },
+    18: {
+        "name": "Tocantins",
+        "year": 2009,
+        "location": "Tocantins, Brazil",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Tocantins",
+        "merge_episode": 9,
+        "episodes": 14,
+        "contestants": 16,
+        "finalists": ["JT", "Stephen"],  # Final 2
+        "winner": "JT",
+        "tribe_merge_name": "Forza"
+    },
+    19: {
+        "name": "Samoa",
+        "year": 2009,
+        "location": "Samoa",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Samoa",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 20,
+        "finalists": ["Natalie", "Russell", "Mick"],  # Final 3
+        "winner": "Natalie",
+        "tribe_merge_name": "Aiga"
+    },
+    20: {
+        "name": "Heroes vs Villains",
+        "year": 2010,
+        "location": "Samoa",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Heroes_vs._Villains",
+        "merge_episode": 10,
+        "episodes": 14,
+        "contestants": 20,
+        "finalists": ["Sandra", "Parvati", "Russell"],  # Final 3
+        "winner": "Sandra",
+        "tribe_merge_name": "Yin Yang"
     }
 }
 

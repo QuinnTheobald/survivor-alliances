@@ -1,0 +1,474 @@
+{
+  "season": 14,
+  "season_name": "Fiji",
+  "year": 2007,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 9,
+  "total_tribal_councils": 8,
+  "total_tribal_councils_all_season": 8,
+  "contestants": [
+    "Jessica",
+    "Erica",
+    "Sylvia",
+    "Liliana",
+    "Rita",
+    "Anthony",
+    "Lisi",
+    "Rocky",
+    "Edgardo",
+    "Mookie",
+    "Michelle",
+    "Alex",
+    "Stacy",
+    "Boo",
+    "Yau-Man",
+    "Dreamz",
+    "Cassandra",
+    "Earl"
+  ],
+  "finalists": [
+    "Earl",
+    "Cassandra",
+    "Dreamz"
+  ],
+  "winner": "Earl",
+  "all_alignments": [
+    {
+      "player1": "Earl",
+      "player2": "Michelle",
+      "votes_together": 6
+    },
+    {
+      "player1": "Earl",
+      "player2": "Mookie",
+      "votes_together": 6
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Mookie",
+      "votes_together": 6
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Earl",
+      "votes_together": 4
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Michelle",
+      "votes_together": 4
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Mookie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Rita",
+      "votes_together": 3
+    },
+    {
+      "player1": "Earl",
+      "player2": "Rita",
+      "votes_together": 3
+    },
+    {
+      "player1": "Earl",
+      "player2": "Yau-Man",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Rita",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Yau-Man",
+      "votes_together": 3
+    },
+    {
+      "player1": "Mookie",
+      "player2": "Rita",
+      "votes_together": 3
+    },
+    {
+      "player1": "Mookie",
+      "player2": "Yau-Man",
+      "votes_together": 3
+    },
+    {
+      "player1": "Earl",
+      "player2": "Rocky",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Rocky",
+      "votes_together": 3
+    },
+    {
+      "player1": "Mookie",
+      "player2": "Rocky",
+      "votes_together": 3
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Yau-Man",
+      "votes_together": 2
+    },
+    {
+      "player1": "Earl",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Mookie",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rita",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rita",
+      "player2": "Yau-Man",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sylvia",
+      "player2": "Yau-Man",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Boo",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Dreamz",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Stacy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Boo",
+      "player2": "Dreamz",
+      "votes_together": 2
+    },
+    {
+      "player1": "Boo",
+      "player2": "Stacy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dreamz",
+      "player2": "Stacy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Rocky",
+      "votes_together": 2
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Erica",
+      "votes_together": 1
+    },
+    {
+      "player1": "Earl",
+      "player2": "Erica",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erica",
+      "player2": "Michelle",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erica",
+      "player2": "Mookie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erica",
+      "player2": "Rita",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erica",
+      "player2": "Sylvia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erica",
+      "player2": "Yau-Man",
+      "votes_together": 1
+    },
+    {
+      "player1": "Alex",
+      "player2": "Edgardo",
+      "votes_together": 1
+    },
+    {
+      "player1": "Alex",
+      "player2": "Lisi",
+      "votes_together": 1
+    },
+    {
+      "player1": "Boo",
+      "player2": "Edgardo",
+      "votes_together": 1
+    },
+    {
+      "player1": "Boo",
+      "player2": "Lisi",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dreamz",
+      "player2": "Edgardo",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dreamz",
+      "player2": "Lisi",
+      "votes_together": 1
+    },
+    {
+      "player1": "Edgardo",
+      "player2": "Lisi",
+      "votes_together": 1
+    },
+    {
+      "player1": "Edgardo",
+      "player2": "Stacy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Lisi",
+      "player2": "Stacy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Rita",
+      "player2": "Rocky",
+      "votes_together": 1
+    },
+    {
+      "player1": "Rocky",
+      "player2": "Yau-Man",
+      "votes_together": 1
+    },
+    {
+      "player1": "Alex",
+      "player2": "Cassandra",
+      "votes_together": 1
+    },
+    {
+      "player1": "Boo",
+      "player2": "Cassandra",
+      "votes_together": 1
+    },
+    {
+      "player1": "Cassandra",
+      "player2": "Dreamz",
+      "votes_together": 1
+    },
+    {
+      "player1": "Cassandra",
+      "player2": "Stacy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Earl",
+      "player2": "Edgardo",
+      "votes_together": 1
+    },
+    {
+      "player1": "Edgardo",
+      "player2": "Michelle",
+      "votes_together": 1
+    },
+    {
+      "player1": "Edgardo",
+      "player2": "Mookie",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Earl",
+      "player2": "Michelle",
+      "votes_together": 6
+    },
+    {
+      "player1": "Earl",
+      "player2": "Mookie",
+      "votes_together": 6
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Mookie",
+      "votes_together": 6
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Earl",
+      "votes_together": 4
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Michelle",
+      "votes_together": 4
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Mookie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Rita",
+      "votes_together": 3
+    },
+    {
+      "player1": "Earl",
+      "player2": "Rita",
+      "votes_together": 3
+    },
+    {
+      "player1": "Earl",
+      "player2": "Yau-Man",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Rita",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Yau-Man",
+      "votes_together": 3
+    },
+    {
+      "player1": "Mookie",
+      "player2": "Rita",
+      "votes_together": 3
+    },
+    {
+      "player1": "Mookie",
+      "player2": "Yau-Man",
+      "votes_together": 3
+    },
+    {
+      "player1": "Earl",
+      "player2": "Rocky",
+      "votes_together": 3
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Rocky",
+      "votes_together": 3
+    },
+    {
+      "player1": "Mookie",
+      "player2": "Rocky",
+      "votes_together": 3
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Yau-Man",
+      "votes_together": 2
+    },
+    {
+      "player1": "Earl",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Michelle",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Mookie",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rita",
+      "player2": "Sylvia",
+      "votes_together": 2
+    },
+    {
+      "player1": "Rita",
+      "player2": "Yau-Man",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sylvia",
+      "player2": "Yau-Man",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Boo",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Dreamz",
+      "votes_together": 2
+    },
+    {
+      "player1": "Alex",
+      "player2": "Stacy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Boo",
+      "player2": "Dreamz",
+      "votes_together": 2
+    },
+    {
+      "player1": "Boo",
+      "player2": "Stacy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dreamz",
+      "player2": "Stacy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Anthony",
+      "player2": "Rocky",
+      "votes_together": 2
+    }
+  ]
+}

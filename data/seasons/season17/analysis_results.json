@@ -1,0 +1,574 @@
+{
+  "season": 17,
+  "season_name": "Gabon",
+  "year": 2008,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 8,
+  "total_tribal_councils": 8,
+  "total_tribal_councils_all_season": 8,
+  "contestants": [
+    "Michelle",
+    "Gillian",
+    "Paloma",
+    "Jacquie",
+    "GC",
+    "Kelly",
+    "Ace",
+    "Dan",
+    "Marcus",
+    "Charlie",
+    "Randy",
+    "Corinne",
+    "Crystal",
+    "Ken",
+    "Matty",
+    "Sugar",
+    "Susie",
+    "Bob"
+  ],
+  "finalists": [
+    "Bob",
+    "Susie",
+    "Sugar"
+  ],
+  "winner": "Bob",
+  "all_alignments": [
+    {
+      "player1": "Crystal",
+      "player2": "Ken",
+      "votes_together": 5
+    },
+    {
+      "player1": "Crystal",
+      "player2": "Matty",
+      "votes_together": 5
+    },
+    {
+      "player1": "Ken",
+      "player2": "Matty",
+      "votes_together": 5
+    },
+    {
+      "player1": "Crystal",
+      "player2": "GC",
+      "votes_together": 3
+    },
+    {
+      "player1": "GC",
+      "player2": "Ken",
+      "votes_together": 3
+    },
+    {
+      "player1": "GC",
+      "player2": "Matty",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ace",
+      "player2": "Susie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Bob",
+      "player2": "Charlie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Bob",
+      "player2": "Corinne",
+      "votes_together": 3
+    },
+    {
+      "player1": "Bob",
+      "player2": "Susie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Corinne",
+      "votes_together": 3
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Susie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Corinne",
+      "player2": "Susie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Marcus",
+      "player2": "Randy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Crystal",
+      "player2": "Gillian",
+      "votes_together": 2
+    },
+    {
+      "player1": "GC",
+      "player2": "Gillian",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gillian",
+      "player2": "Ken",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gillian",
+      "player2": "Matty",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Bob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Charlie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Corinne",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Bob",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Bob",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Corinne",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Corinne",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dan",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dan",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Marcus",
+      "player2": "Susie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Randy",
+      "player2": "Susie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Crystal",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Ken",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Matty",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gillian",
+      "player2": "Paloma",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gillian",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ace",
+      "player2": "Dan",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ace",
+      "player2": "Jacquie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bob",
+      "player2": "Dan",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bob",
+      "player2": "Jacquie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Dan",
+      "votes_together": 1
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Jacquie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Corinne",
+      "player2": "Dan",
+      "votes_together": 1
+    },
+    {
+      "player1": "Corinne",
+      "player2": "Jacquie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dan",
+      "player2": "Jacquie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dan",
+      "player2": "Susie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jacquie",
+      "player2": "Marcus",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jacquie",
+      "player2": "Randy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jacquie",
+      "player2": "Susie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Paloma",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Gillian",
+      "player2": "Kelly",
+      "votes_together": 1
+    },
+    {
+      "player1": "Crystal",
+      "player2": "Kelly",
+      "votes_together": 1
+    },
+    {
+      "player1": "GC",
+      "player2": "Kelly",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Ken",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Matty",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ace",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bob",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Corinne",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Marcus",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Randy",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Sugar",
+      "player2": "Susie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ace",
+      "player2": "GC",
+      "votes_together": 1
+    },
+    {
+      "player1": "Crystal",
+      "player2": "Susie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ken",
+      "player2": "Susie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Matty",
+      "player2": "Susie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Crystal",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Ken",
+      "player2": "Sugar",
+      "votes_together": 1
+    },
+    {
+      "player1": "Matty",
+      "player2": "Sugar",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Crystal",
+      "player2": "Ken",
+      "votes_together": 5
+    },
+    {
+      "player1": "Crystal",
+      "player2": "Matty",
+      "votes_together": 5
+    },
+    {
+      "player1": "Ken",
+      "player2": "Matty",
+      "votes_together": 5
+    },
+    {
+      "player1": "Crystal",
+      "player2": "GC",
+      "votes_together": 3
+    },
+    {
+      "player1": "GC",
+      "player2": "Ken",
+      "votes_together": 3
+    },
+    {
+      "player1": "GC",
+      "player2": "Matty",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ace",
+      "player2": "Susie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Bob",
+      "player2": "Charlie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Bob",
+      "player2": "Corinne",
+      "votes_together": 3
+    },
+    {
+      "player1": "Bob",
+      "player2": "Susie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Corinne",
+      "votes_together": 3
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Susie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Corinne",
+      "player2": "Susie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Marcus",
+      "player2": "Randy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Crystal",
+      "player2": "Gillian",
+      "votes_together": 2
+    },
+    {
+      "player1": "GC",
+      "player2": "Gillian",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gillian",
+      "player2": "Ken",
+      "votes_together": 2
+    },
+    {
+      "player1": "Gillian",
+      "player2": "Matty",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Bob",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Charlie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Corinne",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Bob",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Bob",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Charlie",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Corinne",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Corinne",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dan",
+      "player2": "Marcus",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dan",
+      "player2": "Randy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Marcus",
+      "player2": "Susie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Randy",
+      "player2": "Susie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Crystal",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Ken",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ace",
+      "player2": "Matty",
+      "votes_together": 2
+    }
+  ]
+}

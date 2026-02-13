@@ -1,0 +1,271 @@
+{
+  "season": 12,
+  "season_name": "Panama - Exile Island",
+  "year": 2006,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 8,
+  "total_tribal_councils": 7,
+  "total_tribal_councils_all_season": 7,
+  "contestants": [
+    "Tina",
+    "Melinda",
+    "Misty",
+    "Ruth Marie",
+    "Bobby",
+    "Dan",
+    "Sally",
+    "Bruce",
+    "Austin",
+    "Nick",
+    "Courtney",
+    "Shane",
+    "Cirie",
+    "Terry",
+    "Danielle",
+    "Aras"
+  ],
+  "finalists": [
+    "Aras",
+    "Danielle"
+  ],
+  "winner": "Aras",
+  "all_alignments": [
+    {
+      "player1": "Austin",
+      "player2": "Dan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Courtney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Shane",
+      "votes_together": 3
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Shane",
+      "votes_together": 3
+    },
+    {
+      "player1": "Austin",
+      "player2": "Nick",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dan",
+      "player2": "Sally",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dan",
+      "player2": "Nick",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dan",
+      "player2": "Terry",
+      "votes_together": 2
+    },
+    {
+      "player1": "Austin",
+      "player2": "Sally",
+      "votes_together": 2
+    },
+    {
+      "player1": "Austin",
+      "player2": "Terry",
+      "votes_together": 2
+    },
+    {
+      "player1": "Nick",
+      "player2": "Sally",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sally",
+      "player2": "Terry",
+      "votes_together": 2
+    },
+    {
+      "player1": "Nick",
+      "player2": "Terry",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Shane",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aras",
+      "player2": "Shane",
+      "votes_together": 2
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Danielle",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aras",
+      "player2": "Courtney",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Danielle",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aras",
+      "player2": "Cirie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aras",
+      "player2": "Danielle",
+      "votes_together": 2
+    },
+    {
+      "player1": "Bobby",
+      "player2": "Dan",
+      "votes_together": 1
+    },
+    {
+      "player1": "Austin",
+      "player2": "Bobby",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bruce",
+      "player2": "Shane",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bruce",
+      "player2": "Courtney",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bruce",
+      "player2": "Cirie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Bruce",
+      "player2": "Danielle",
+      "votes_together": 1
+    },
+    {
+      "player1": "Aras",
+      "player2": "Bruce",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Austin",
+      "player2": "Dan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Courtney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Shane",
+      "votes_together": 3
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Shane",
+      "votes_together": 3
+    },
+    {
+      "player1": "Austin",
+      "player2": "Nick",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dan",
+      "player2": "Sally",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dan",
+      "player2": "Nick",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dan",
+      "player2": "Terry",
+      "votes_together": 2
+    },
+    {
+      "player1": "Austin",
+      "player2": "Sally",
+      "votes_together": 2
+    },
+    {
+      "player1": "Austin",
+      "player2": "Terry",
+      "votes_together": 2
+    },
+    {
+      "player1": "Nick",
+      "player2": "Sally",
+      "votes_together": 2
+    },
+    {
+      "player1": "Sally",
+      "player2": "Terry",
+      "votes_together": 2
+    },
+    {
+      "player1": "Nick",
+      "player2": "Terry",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Shane",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aras",
+      "player2": "Shane",
+      "votes_together": 2
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Danielle",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aras",
+      "player2": "Courtney",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Danielle",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aras",
+      "player2": "Cirie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Aras",
+      "player2": "Danielle",
+      "votes_together": 2
+    }
+  ]
+}

@@ -131,10 +131,10 @@ def save_season_results(season_num, results, output_dir='data/seasons'):
 def main():
     """Main execution function."""
     print("🏝️  SURVIVOR BATCH ANALYSIS - PRE-MERGE ALLIANCES")
-    print("Analyzing Seasons 1-10")
+    print("Analyzing Seasons 1-20")
     print("=" * 70)
 
-    seasons = get_all_seasons(1, 10)
+    seasons = get_all_seasons(1, 20)
     results_summary = []
 
     for season_num in sorted(seasons.keys()):

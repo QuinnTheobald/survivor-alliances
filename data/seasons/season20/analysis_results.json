@@ -1,0 +1,531 @@
+{
+  "season": 20,
+  "season_name": "Heroes vs Villains",
+  "year": 2010,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 10,
+  "total_tribal_councils": 10,
+  "total_tribal_councils_all_season": 10,
+  "contestants": [
+    "Sugar",
+    "Stephenie",
+    "Randy",
+    "Cirie",
+    "Tom",
+    "James",
+    "Tyson",
+    "Boston Rob",
+    "Coach",
+    "Courtney",
+    "JT",
+    "Amanda",
+    "Candice",
+    "Danielle",
+    "Rupert",
+    "Colby",
+    "Jerri",
+    "Russell",
+    "Parvati",
+    "Sandra"
+  ],
+  "finalists": [
+    "Sandra",
+    "Parvati",
+    "Russell"
+  ],
+  "winner": "Sandra",
+  "all_alignments": [
+    {
+      "player1": "Amanda",
+      "player2": "JT",
+      "votes_together": 6
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Rupert",
+      "votes_together": 6
+    },
+    {
+      "player1": "JT",
+      "player2": "Rupert",
+      "votes_together": 6
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Candice",
+      "votes_together": 5
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Colby",
+      "votes_together": 5
+    },
+    {
+      "player1": "Candice",
+      "player2": "JT",
+      "votes_together": 5
+    },
+    {
+      "player1": "Candice",
+      "player2": "Rupert",
+      "votes_together": 5
+    },
+    {
+      "player1": "Colby",
+      "player2": "JT",
+      "votes_together": 5
+    },
+    {
+      "player1": "Colby",
+      "player2": "Rupert",
+      "votes_together": 5
+    },
+    {
+      "player1": "Amanda",
+      "player2": "James",
+      "votes_together": 4
+    },
+    {
+      "player1": "Candice",
+      "player2": "Colby",
+      "votes_together": 4
+    },
+    {
+      "player1": "Candice",
+      "player2": "James",
+      "votes_together": 4
+    },
+    {
+      "player1": "JT",
+      "player2": "James",
+      "votes_together": 4
+    },
+    {
+      "player1": "James",
+      "player2": "Rupert",
+      "votes_together": 4
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Sandra",
+      "votes_together": 4
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "James",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "James",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "JT",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "Rupert",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "Boston Rob",
+      "player2": "Courtney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Boston Rob",
+      "player2": "Sandra",
+      "votes_together": 3
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Parvati",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Russell",
+      "votes_together": 3
+    },
+    {
+      "player1": "Parvati",
+      "player2": "Russell",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Cirie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Candice",
+      "player2": "Cirie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Colby",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "James",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "JT",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Rupert",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Danielle",
+      "votes_together": 2
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Jerri",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Russell",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Sandra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Parvati",
+      "player2": "Sandra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Coach",
+      "player2": "Randy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Randy",
+      "player2": "Tyson",
+      "votes_together": 1
+    },
+    {
+      "player1": "Boston Rob",
+      "player2": "Danielle",
+      "votes_together": 1
+    },
+    {
+      "player1": "Boston Rob",
+      "player2": "Jerri",
+      "votes_together": 1
+    },
+    {
+      "player1": "Boston Rob",
+      "player2": "Parvati",
+      "votes_together": 1
+    },
+    {
+      "player1": "Boston Rob",
+      "player2": "Russell",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coach",
+      "player2": "Tyson",
+      "votes_together": 1
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Jerri",
+      "votes_together": 1
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Russell",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Sandra",
+      "votes_together": 1
+    },
+    {
+      "player1": "Russell",
+      "player2": "Sandra",
+      "votes_together": 1
+    },
+    {
+      "player1": "Boston Rob",
+      "player2": "Tyson",
+      "votes_together": 1
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Tyson",
+      "votes_together": 1
+    },
+    {
+      "player1": "Sandra",
+      "player2": "Tyson",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coach",
+      "player2": "Jerri",
+      "votes_together": 1
+    },
+    {
+      "player1": "Coach",
+      "player2": "Russell",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Amanda",
+      "player2": "JT",
+      "votes_together": 6
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Rupert",
+      "votes_together": 6
+    },
+    {
+      "player1": "JT",
+      "player2": "Rupert",
+      "votes_together": 6
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Candice",
+      "votes_together": 5
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Colby",
+      "votes_together": 5
+    },
+    {
+      "player1": "Candice",
+      "player2": "JT",
+      "votes_together": 5
+    },
+    {
+      "player1": "Candice",
+      "player2": "Rupert",
+      "votes_together": 5
+    },
+    {
+      "player1": "Colby",
+      "player2": "JT",
+      "votes_together": 5
+    },
+    {
+      "player1": "Colby",
+      "player2": "Rupert",
+      "votes_together": 5
+    },
+    {
+      "player1": "Amanda",
+      "player2": "James",
+      "votes_together": 4
+    },
+    {
+      "player1": "Candice",
+      "player2": "Colby",
+      "votes_together": 4
+    },
+    {
+      "player1": "Candice",
+      "player2": "James",
+      "votes_together": 4
+    },
+    {
+      "player1": "JT",
+      "player2": "James",
+      "votes_together": 4
+    },
+    {
+      "player1": "James",
+      "player2": "Rupert",
+      "votes_together": 4
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Sandra",
+      "votes_together": 4
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "James",
+      "votes_together": 3
+    },
+    {
+      "player1": "Colby",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "James",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "JT",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "Rupert",
+      "player2": "Tom",
+      "votes_together": 3
+    },
+    {
+      "player1": "Boston Rob",
+      "player2": "Courtney",
+      "votes_together": 3
+    },
+    {
+      "player1": "Boston Rob",
+      "player2": "Sandra",
+      "votes_together": 3
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Parvati",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Russell",
+      "votes_together": 3
+    },
+    {
+      "player1": "Parvati",
+      "player2": "Russell",
+      "votes_together": 3
+    },
+    {
+      "player1": "Amanda",
+      "player2": "Cirie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Candice",
+      "player2": "Cirie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Colby",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "James",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "JT",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Rupert",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cirie",
+      "player2": "Tom",
+      "votes_together": 2
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Danielle",
+      "votes_together": 2
+    },
+    {
+      "player1": "Courtney",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Jerri",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Russell",
+      "votes_together": 2
+    },
+    {
+      "player1": "Danielle",
+      "player2": "Sandra",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jerri",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Parvati",
+      "player2": "Sandra",
+      "votes_together": 2
+    }
+  ]
+}

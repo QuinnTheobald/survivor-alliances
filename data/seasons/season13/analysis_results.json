@@ -1,0 +1,386 @@
+{
+  "season": 13,
+  "season_name": "Cook Islands",
+  "year": 2006,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 11,
+  "total_tribal_councils": 10,
+  "total_tribal_councils_all_season": 10,
+  "contestants": [
+    "Sekou",
+    "Billy",
+    "Cecilia",
+    "JP",
+    "Stephannie",
+    "Cristina",
+    "Flicka",
+    "Cao Boi",
+    "Rebecca",
+    "Jenny",
+    "Brad",
+    "Nate",
+    "Candice",
+    "Jonathan",
+    "Parvati",
+    "Adam",
+    "Sundra",
+    "Becky",
+    "Ozzy",
+    "Yul"
+  ],
+  "finalists": [
+    "Yul",
+    "Ozzy",
+    "Becky"
+  ],
+  "winner": "Yul",
+  "all_alignments": [
+    {
+      "player1": "Adam",
+      "player2": "Parvati",
+      "votes_together": 5
+    },
+    {
+      "player1": "Candice",
+      "player2": "Ozzy",
+      "votes_together": 4
+    },
+    {
+      "player1": "Nate",
+      "player2": "Parvati",
+      "votes_together": 4
+    },
+    {
+      "player1": "Adam",
+      "player2": "Nate",
+      "votes_together": 4
+    },
+    {
+      "player1": "Candice",
+      "player2": "Parvati",
+      "votes_together": 4
+    },
+    {
+      "player1": "Adam",
+      "player2": "Candice",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jenny",
+      "player2": "Nate",
+      "votes_together": 4
+    },
+    {
+      "player1": "Nate",
+      "player2": "Rebecca",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Cristina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Cristina",
+      "player2": "Ozzy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Jonathan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Jenny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Nate",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenny",
+      "player2": "Parvati",
+      "votes_together": 3
+    },
+    {
+      "player1": "Adam",
+      "player2": "Jenny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "JP",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cristina",
+      "player2": "JP",
+      "votes_together": 2
+    },
+    {
+      "player1": "JP",
+      "player2": "Ozzy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Candice",
+      "player2": "Rebecca",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenny",
+      "player2": "Rebecca",
+      "votes_together": 2
+    },
+    {
+      "player1": "Parvati",
+      "player2": "Rebecca",
+      "votes_together": 2
+    },
+    {
+      "player1": "Adam",
+      "player2": "Rebecca",
+      "votes_together": 2
+    },
+    {
+      "player1": "Adam",
+      "player2": "Jonathan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Nate",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenny",
+      "player2": "Jonathan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Nate",
+      "player2": "Stephannie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Nate",
+      "player2": "Sundra",
+      "votes_together": 1
+    },
+    {
+      "player1": "Rebecca",
+      "player2": "Stephannie",
+      "votes_together": 1
+    },
+    {
+      "player1": "Rebecca",
+      "player2": "Sundra",
+      "votes_together": 1
+    },
+    {
+      "player1": "Stephannie",
+      "player2": "Sundra",
+      "votes_together": 1
+    },
+    {
+      "player1": "Candice",
+      "player2": "Cecilia",
+      "votes_together": 1
+    },
+    {
+      "player1": "Cecilia",
+      "player2": "Cristina",
+      "votes_together": 1
+    },
+    {
+      "player1": "Cecilia",
+      "player2": "JP",
+      "votes_together": 1
+    },
+    {
+      "player1": "Cecilia",
+      "player2": "Ozzy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Ozzy",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brad",
+      "player2": "Candice",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brad",
+      "player2": "Jenny",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brad",
+      "player2": "Parvati",
+      "votes_together": 1
+    },
+    {
+      "player1": "Adam",
+      "player2": "Brad",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brad",
+      "player2": "Nate",
+      "votes_together": 1
+    },
+    {
+      "player1": "Brad",
+      "player2": "Rebecca",
+      "votes_together": 1
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Rebecca",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Adam",
+      "player2": "Parvati",
+      "votes_together": 5
+    },
+    {
+      "player1": "Candice",
+      "player2": "Ozzy",
+      "votes_together": 4
+    },
+    {
+      "player1": "Nate",
+      "player2": "Parvati",
+      "votes_together": 4
+    },
+    {
+      "player1": "Adam",
+      "player2": "Nate",
+      "votes_together": 4
+    },
+    {
+      "player1": "Candice",
+      "player2": "Parvati",
+      "votes_together": 4
+    },
+    {
+      "player1": "Adam",
+      "player2": "Candice",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jenny",
+      "player2": "Nate",
+      "votes_together": 4
+    },
+    {
+      "player1": "Nate",
+      "player2": "Rebecca",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Cristina",
+      "votes_together": 3
+    },
+    {
+      "player1": "Cristina",
+      "player2": "Ozzy",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Jonathan",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Jenny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "Nate",
+      "votes_together": 3
+    },
+    {
+      "player1": "Jenny",
+      "player2": "Parvati",
+      "votes_together": 3
+    },
+    {
+      "player1": "Adam",
+      "player2": "Jenny",
+      "votes_together": 3
+    },
+    {
+      "player1": "Candice",
+      "player2": "JP",
+      "votes_together": 2
+    },
+    {
+      "player1": "Cristina",
+      "player2": "JP",
+      "votes_together": 2
+    },
+    {
+      "player1": "JP",
+      "player2": "Ozzy",
+      "votes_together": 2
+    },
+    {
+      "player1": "Candice",
+      "player2": "Rebecca",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenny",
+      "player2": "Rebecca",
+      "votes_together": 2
+    },
+    {
+      "player1": "Parvati",
+      "player2": "Rebecca",
+      "votes_together": 2
+    },
+    {
+      "player1": "Adam",
+      "player2": "Rebecca",
+      "votes_together": 2
+    },
+    {
+      "player1": "Adam",
+      "player2": "Jonathan",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Parvati",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jonathan",
+      "player2": "Nate",
+      "votes_together": 2
+    },
+    {
+      "player1": "Jenny",
+      "player2": "Jonathan",
+      "votes_together": 2
+    }
+  ]
+}

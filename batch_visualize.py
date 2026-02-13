@@ -5,6 +5,7 @@ Creates network diagrams for all analyzed seasons
 """
 
 import json
+import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
@@ -20,7 +21,44 @@ def load_season_results(season_num, data_dir='data/seasons'):
     with open(results_file, 'r') as f:
         return json.load(f)
 
-def create_network_graph(data, min_votes=2):
+def identify_starting_tribes(season_num):
+    """Identify which starting tribe each contestant was on."""
+    from season_metadata import get_season_info
+    import importlib.util
+    from pathlib import Path
+
+    # Import season data
+    module_path = Path(f"season{season_num}_manual_data.py")
+    if not module_path.exists():
+        return {}
+
+    spec = importlib.util.spec_from_file_location(f"season{season_num}_data", module_path)
+    if not spec or not spec.loader:
+        return {}
+
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+
+    voting_history = getattr(module, 'SEASON_VOTING_HISTORY',
+                            getattr(module, f'SEASON_{season_num}_VOTING_HISTORY', None))
+
+    if not voting_history:
+        return {}
+
+    # Map contestants to their starting tribes based on early votes
+    contestant_tribes = {}
+
+    for tribal_council in voting_history[:4]:  # Look at first few tribal councils
+        tribe = tribal_council.get('tribe', 'Unknown')
+        votes = tribal_council.get('votes', {})
+
+        for voter in votes.keys():
+            if voter not in contestant_tribes:
+                contestant_tribes[voter] = tribe
+
+    return contestant_tribes
+
+def create_network_graph(data, min_votes=1):
     """Create NetworkX graph from alliance data."""
     G = nx.Graph()
 
@@ -30,8 +68,8 @@ def create_network_graph(data, min_votes=2):
         is_winner = contestant == data['winner']
         G.add_node(contestant, finalist=is_finalist, winner=is_winner)
 
-    # Add edges
-    for alliance in data['strong_alliances']:
+    # Add edges for ALL voting alignments (including single votes)
+    for alliance in data['all_alignments']:
         if alliance['votes_together'] >= min_votes:
             G.add_edge(alliance['player1'], alliance['player2'],
                       weight=alliance['votes_together'])
@@ -87,16 +125,30 @@ def visualize_season(season_num, data, output_dir='visualizations'):
             node_edgecolors.append('#333333')
             node_linewidths.append(2)
 
-    # Edge styling
+    # Edge styling - differentiate single votes from alliances
     edges = G.edges()
     weights = [G[u][v]['weight'] for u, v in edges]
     max_weight = max(weights) if weights else 1
-    edge_widths = [1 + (w / max_weight) * 9 for w in weights]
-    edge_colors = [w / max_weight for w in weights]
 
-    # Draw
-    nx.draw_networkx_edges(G, pos, width=edge_widths, alpha=0.6,
-                          edge_color=edge_colors, edge_cmap=plt.cm.Blues, ax=ax)
+    # Separate single votes from alliances
+    single_vote_edges = [(u, v) for u, v in edges if G[u][v]['weight'] == 1]
+    alliance_edges = [(u, v) for u, v in edges if G[u][v]['weight'] >= 2]
+
+    # Draw single votes (thin, dashed, darker)
+    if single_vote_edges:
+        nx.draw_networkx_edges(G, pos, edgelist=single_vote_edges,
+                              width=1.0, alpha=0.5, style='dashed',
+                              edge_color='#666666', ax=ax)
+
+    # Draw alliances (thicker, solid, colored by strength)
+    if alliance_edges:
+        alliance_weights = [G[u][v]['weight'] for u, v in alliance_edges]
+        edge_widths = [1 + (w / max_weight) * 9 for w in alliance_weights]
+        edge_colors = [w / max_weight for w in alliance_weights]
+
+        nx.draw_networkx_edges(G, pos, edgelist=alliance_edges,
+                              width=edge_widths, alpha=0.6,
+                              edge_color=edge_colors, edge_cmap=plt.cm.Blues, ax=ax)
     nx.draw_networkx_nodes(G, pos, node_color=node_colors, node_size=node_sizes,
                           edgecolors=node_edgecolors, linewidths=node_linewidths, ax=ax)
     nx.draw_networkx_labels(G, pos, font_size=10, font_weight='bold', ax=ax)
@@ -104,7 +156,7 @@ def visualize_season(season_num, data, output_dir='visualizations'):
     # Title with Final Tribal Council info
     finalists_str = " & ".join(data['finalists'])
     title = f"Survivor Season {data['season']}: {data['season_name']} - PRE-MERGE ONLY\n"
-    title += f"Alliance Network (2+ votes together)\n"
+    title += f"Voting Alignment Network (all pre-merge votes)\n"
     title += f"Final Tribal Council: {finalists_str}"
     ax.set_title(title, fontsize=18, fontweight='bold', pad=20)
 
@@ -125,18 +177,25 @@ def visualize_season(season_num, data, output_dir='visualizations'):
         Line2D([0], [0], color='#4A90E2', linewidth=8, alpha=0.7,
                label='Strong Alliance (5+ votes)'),
         Line2D([0], [0], color='#4A90E2', linewidth=4, alpha=0.6,
-               label='Moderate Alliance (3-4 votes)'),
+               label='Alliance (3-4 votes)'),
         Line2D([0], [0], color='#4A90E2', linewidth=2, alpha=0.5,
-               label='Weak Alliance (2 votes)')
+               label='Alliance (2 votes)'),
+        Line2D([0], [0], color='#666666', linewidth=1.5, alpha=0.5, linestyle='--',
+               label='Single Vote (not alliance)')
     ]
 
     ax.legend(handles=legend_elements, loc='upper left', fontsize=10,
              framealpha=0.95, title='Legend', title_fontsize=11)
 
     # Stats at bottom
+    total_alignments = len(data['all_alignments'])
+    strong_alliances = len(data['strong_alliances'])
+    single_votes = total_alignments - strong_alliances
+
     stats_text = f"Contestants: {len(data['contestants'])} | "
     stats_text += f"Pre-Merge Tribal Councils: {data['total_tribal_councils']} | "
-    stats_text += f"Strong Alliances: {len(data['strong_alliances'])}"
+    stats_text += f"Alliances (2+ votes): {strong_alliances} | "
+    stats_text += f"Single Votes: {single_votes}"
     ax.text(0.5, -0.08, stats_text, transform=ax.transAxes,
            ha='center', fontsize=11, fontweight='bold',
            bbox=dict(boxstyle='round', facecolor='#FFE4B5', alpha=0.8, edgecolor='#8B4513', linewidth=2))
@@ -165,15 +224,28 @@ def create_interactive_viz(season_num, data, G, pos, output_dir):
         x1, y1 = pos[edge[1]]
         weight = G[edge[0]][edge[1]]['weight']
 
-        edge_trace = go.Scatter(
-            x=[x0, x1, None], y=[y0, y1, None],
-            mode='lines',
-            line=dict(width=1 + (weight / max_weight) * 9,
-                     color=f'rgba(100, 150, 200, {0.3 + (weight / max_weight) * 0.6})'),
-            hoverinfo='text',
-            text=f'{edge[0]} ↔ {edge[1]}: {weight} votes',
-            showlegend=False
-        )
+        # Differentiate single votes from alliances
+        if weight == 1:
+            # Single vote: thin, dashed, darker gray
+            edge_trace = go.Scatter(
+                x=[x0, x1, None], y=[y0, y1, None],
+                mode='lines',
+                line=dict(width=1.5, color='rgba(100, 100, 100, 0.5)', dash='dash'),
+                hoverinfo='text',
+                text=f'{edge[0]} ↔ {edge[1]}: {weight} vote (not alliance)',
+                showlegend=False
+            )
+        else:
+            # Alliance: thicker, solid, colored by strength
+            edge_trace = go.Scatter(
+                x=[x0, x1, None], y=[y0, y1, None],
+                mode='lines',
+                line=dict(width=1 + (weight / max_weight) * 9,
+                         color=f'rgba(100, 150, 200, {0.3 + (weight / max_weight) * 0.6})'),
+                hoverinfo='text',
+                text=f'{edge[0]} ↔ {edge[1]}: {weight} votes together',
+                showlegend=False
+            )
         edge_traces.append(edge_trace)
 
     # Node trace
@@ -230,10 +302,14 @@ def create_interactive_viz(season_num, data, G, pos, output_dir):
     fig = go.Figure(data=edge_traces + [node_trace])
 
     finalists_str = " & ".join(data['finalists'])
+    strong_alliances = len(data['strong_alliances'])
+    total_alignments = len(data['all_alignments'])
+    single_votes = total_alignments - strong_alliances
+
     fig.update_layout(
         title=dict(
             text=f"Season {data['season']}: {data['season_name']} - PRE-MERGE<br>" +
-                 f"<sub>Interactive Alliance Network | Final Tribal Council: {finalists_str}</sub>",
+                 f"<sub>Interactive Voting Network | Alliances (2+ votes): {strong_alliances} | Single Votes: {single_votes} | Final: {finalists_str}</sub>",
             x=0.5, xanchor='center', font=dict(size=20)
         ),
         showlegend=False,

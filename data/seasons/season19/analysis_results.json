@@ -1,0 +1,656 @@
+{
+  "season": 19,
+  "season_name": "Samoa",
+  "year": 2009,
+  "analysis_type": "pre_merge_only",
+  "merge_episode": 8,
+  "total_tribal_councils": 7,
+  "total_tribal_councils_all_season": 7,
+  "contestants": [
+    "Marisa",
+    "Mike",
+    "Betsy",
+    "Ben",
+    "Yasmin",
+    "Ashley",
+    "Russell S",
+    "Liz",
+    "Erik",
+    "Kelly",
+    "Laura",
+    "John",
+    "Dave",
+    "Monica",
+    "Shambo",
+    "Brett",
+    "Jaison",
+    "Mick",
+    "Russell",
+    "Natalie"
+  ],
+  "finalists": [
+    "Natalie",
+    "Russell",
+    "Mick"
+  ],
+  "winner": "Natalie",
+  "all_alignments": [
+    {
+      "player1": "Jaison",
+      "player2": "Liz",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jaison",
+      "player2": "Mick",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jaison",
+      "player2": "Natalie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jaison",
+      "player2": "Russell",
+      "votes_together": 4
+    },
+    {
+      "player1": "Liz",
+      "player2": "Mick",
+      "votes_together": 4
+    },
+    {
+      "player1": "Liz",
+      "player2": "Natalie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Liz",
+      "player2": "Russell",
+      "votes_together": 4
+    },
+    {
+      "player1": "Mick",
+      "player2": "Natalie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Mick",
+      "player2": "Russell",
+      "votes_together": 4
+    },
+    {
+      "player1": "Natalie",
+      "player2": "Russell",
+      "votes_together": 4
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Jaison",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Liz",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Mick",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Natalie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Russell",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Dave",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Erik",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "John",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Erik",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "John",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "John",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Laura",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Laura",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Monica",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Ben",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Jaison",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Liz",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Mick",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Natalie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Russell",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brett",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dave",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "John",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Laura",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Monica",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Russell S",
+      "player2": "Shambo",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brett",
+      "player2": "Yasmin",
+      "votes_together": 1
+    },
+    {
+      "player1": "Dave",
+      "player2": "Yasmin",
+      "votes_together": 1
+    },
+    {
+      "player1": "Erik",
+      "player2": "Yasmin",
+      "votes_together": 1
+    },
+    {
+      "player1": "John",
+      "player2": "Yasmin",
+      "votes_together": 1
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Yasmin",
+      "votes_together": 1
+    },
+    {
+      "player1": "Laura",
+      "player2": "Yasmin",
+      "votes_together": 1
+    },
+    {
+      "player1": "Monica",
+      "player2": "Yasmin",
+      "votes_together": 1
+    },
+    {
+      "player1": "Russell S",
+      "player2": "Yasmin",
+      "votes_together": 1
+    },
+    {
+      "player1": "Shambo",
+      "player2": "Yasmin",
+      "votes_together": 1
+    }
+  ],
+  "strong_alliances": [
+    {
+      "player1": "Jaison",
+      "player2": "Liz",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jaison",
+      "player2": "Mick",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jaison",
+      "player2": "Natalie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Jaison",
+      "player2": "Russell",
+      "votes_together": 4
+    },
+    {
+      "player1": "Liz",
+      "player2": "Mick",
+      "votes_together": 4
+    },
+    {
+      "player1": "Liz",
+      "player2": "Natalie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Liz",
+      "player2": "Russell",
+      "votes_together": 4
+    },
+    {
+      "player1": "Mick",
+      "player2": "Natalie",
+      "votes_together": 4
+    },
+    {
+      "player1": "Mick",
+      "player2": "Russell",
+      "votes_together": 4
+    },
+    {
+      "player1": "Natalie",
+      "player2": "Russell",
+      "votes_together": 4
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Jaison",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Liz",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Mick",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Natalie",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Russell",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Dave",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Erik",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "John",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Brett",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Erik",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "John",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Dave",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "John",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Erik",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Kelly",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "John",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Laura",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Laura",
+      "player2": "Monica",
+      "votes_together": 3
+    },
+    {
+      "player1": "Laura",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Monica",
+      "player2": "Shambo",
+      "votes_together": 3
+    },
+    {
+      "player1": "Ashley",
+      "player2": "Ben",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Jaison",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Liz",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Mick",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Natalie",
+      "votes_together": 2
+    },
+    {
+      "player1": "Ben",
+      "player2": "Russell",
+      "votes_together": 2
+    },
+    {
+      "player1": "Brett",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Dave",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Erik",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "John",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Kelly",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Laura",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Monica",
+      "player2": "Russell S",
+      "votes_together": 2
+    },
+    {
+      "player1": "Russell S",
+      "player2": "Shambo",
+      "votes_together": 2
+    }
+  ]
+}
