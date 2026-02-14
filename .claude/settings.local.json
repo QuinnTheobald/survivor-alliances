@@ -24,7 +24,9 @@
       "WebSearch",
       "WebFetch(domain:survivor.fandom.com)",
       "WebFetch(domain:en.wikipedia.org)",
-      "WebFetch(domain:www.truedorktimes.com)"
+      "WebFetch(domain:www.truedorktimes.com)",
+      "Bash(wc:*)",
+      "Bash(chmod:*)"
     ]
   }
 }

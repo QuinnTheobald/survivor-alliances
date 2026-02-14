@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survivor Alliance Visualizations</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .header h1 {
+            font-size: 2em;
+            margin-bottom: 5px;
+        }
+
+        .header p {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
+        .season-info {
+            background: rgba(0, 0, 0, 0.2);
+            padding: 15px 20px;
+            text-align: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .season-info h2 {
+            font-size: 1.5em;
+            margin-bottom: 5px;
+        }
+
+        .season-info .season-subtitle {
+            font-size: 0.9em;
+            opacity: 0.8;
+        }
+
+        .controls {
+            background: rgba(0, 0, 0, 0.2);
+            padding: 15px 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .nav-buttons {
+            display: flex;
+            gap: 10px;
+        }
+
+        button {
+            background: rgba(255, 255, 255, 0.2);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            color: white;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            font-weight: 600;
+        }
+
+        button:hover:not(:disabled) {
+            background: rgba(255, 255, 255, 0.3);
+            border-color: rgba(255, 255, 255, 0.5);
+            transform: translateY(-2px);
+        }
+
+        button:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .view-toggle {
+            display: flex;
+            gap: 10px;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        .view-toggle button.active {
+            background: rgba(255, 255, 255, 0.4);
+            border-color: rgba(255, 255, 255, 0.6);
+        }
+
+        .viewer-container {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            overflow: auto;
+        }
+
+        .viewer {
+            width: 100%;
+            max-width: 1400px;
+            height: 100%;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        #imageViewer {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            background: white;
+        }
+
+        #interactiveViewer {
+            width: 100%;
+            height: 100%;
+            border: none;
+            background: white;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .keyboard-hint {
+            text-align: center;
+            padding: 10px;
+            font-size: 0.85em;
+            opacity: 0.7;
+            background: rgba(0, 0, 0, 0.2);
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.5em;
+            }
+
+            .season-info h2 {
+                font-size: 1.2em;
+            }
+
+            .controls {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            button {
+                padding: 8px 16px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Survivor Alliance Network Analysis</h1>
+        <p>Pre-Merge Voting Pattern Visualizations (Seasons 1-20)</p>
+    </div>
+
+    <div class="season-info">
+        <h2 id="seasonTitle">Season 1: Borneo</h2>
+        <div class="season-subtitle" id="seasonSubtitle">Pre-Merge Voting Alliances</div>
+    </div>
+
+    <div class="controls">
+        <div class="nav-buttons">
+            <button id="prevBtn" onclick="previousSeason()">← Previous</button>
+            <button id="nextBtn" onclick="nextSeason()">Next →</button>
+        </div>
+
+        <div class="view-toggle">
+            <button id="staticBtn" class="active" onclick="showView('static')">Static Image</button>
+            <button id="interactiveBtn" onclick="showView('interactive')">Interactive</button>
+        </div>
+    </div>
+
+    <div class="viewer-container">
+        <div class="viewer">
+            <img id="imageViewer" src="" alt="Alliance Network">
+            <iframe id="interactiveViewer" class="hidden" src=""></iframe>
+        </div>
+    </div>
+
+    <div class="keyboard-hint">
+        Use ← → arrow keys to navigate between seasons
+    </div>
+
+    <script>
+        // Season metadata
+        const seasons = {
+            1: { name: "Borneo", year: 2000 },
+            2: { name: "The Australian Outback", year: 2001 },
+            3: { name: "Africa", year: 2001 },
+            4: { name: "Marquesas", year: 2002 },
+            5: { name: "Thailand", year: 2002 },
+            6: { name: "The Amazon", year: 2003 },
+            7: { name: "Pearl Islands", year: 2003 },
+            8: { name: "All-Stars", year: 2004 },
+            9: { name: "Vanuatu", year: 2004 },
+            10: { name: "Palau", year: 2005 },
+            11: { name: "Guatemala", year: 2005 },
+            12: { name: "Panama - Exile Island", year: 2006 },
+            13: { name: "Cook Islands", year: 2006 },
+            14: { name: "Fiji", year: 2007 },
+            15: { name: "China", year: 2007 },
+            16: { name: "Micronesia - Fans vs Favorites", year: 2008 },
+            17: { name: "Gabon", year: 2008 },
+            18: { name: "Tocantins", year: 2009 },
+            19: { name: "Samoa", year: 2009 },
+            20: { name: "Heroes vs Villains", year: 2010 }
+        };
+
+        let currentSeason = 1;
+        let currentView = 'static'; // 'static' or 'interactive'
+
+        function updateDisplay() {
+            const seasonNum = String(currentSeason).padStart(2, '0');
+            const seasonData = seasons[currentSeason];
+
+            // Update title
+            document.getElementById('seasonTitle').textContent =
+                `Season ${currentSeason}: ${seasonData.name}`;
+            document.getElementById('seasonSubtitle').textContent =
+                `${seasonData.year} - Pre-Merge Voting Alliances`;
+
+            // Update navigation buttons
+            document.getElementById('prevBtn').disabled = currentSeason === 1;
+            document.getElementById('nextBtn').disabled = currentSeason === 20;
+
+            // Update viewer
+            const imageViewer = document.getElementById('imageViewer');
+            const interactiveViewer = document.getElementById('interactiveViewer');
+
+            if (currentView === 'static') {
+                imageViewer.src = `season${seasonNum}/season${seasonNum}_alliances.png`;
+                imageViewer.classList.remove('hidden');
+                interactiveViewer.classList.add('hidden');
+            } else {
+                interactiveViewer.src = `season${seasonNum}/season${seasonNum}_interactive.html`;
+                interactiveViewer.classList.remove('hidden');
+                imageViewer.classList.add('hidden');
+            }
+        }
+
+        function nextSeason() {
+            if (currentSeason < 20) {
+                currentSeason++;
+                updateDisplay();
+            }
+        }
+
+        function previousSeason() {
+            if (currentSeason > 1) {
+                currentSeason--;
+                updateDisplay();
+            }
+        }
+
+        function showView(view) {
+            currentView = view;
+
+            // Update button states
+            document.getElementById('staticBtn').classList.toggle('active', view === 'static');
+            document.getElementById('interactiveBtn').classList.toggle('active', view === 'interactive');
+
+            updateDisplay();
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') {
+                previousSeason();
+            } else if (e.key === 'ArrowRight') {
+                nextSeason();
+            }
+        });
+
+        // Initialize
+        updateDisplay();
+    </script>
+</body>
+</html>

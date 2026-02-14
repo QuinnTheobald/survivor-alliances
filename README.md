@@ -1,7 +1,7 @@
 # Survivor Alliance Network Analysis - Multi-Season Edition
 
 ## Overview
-This project analyzes **pre-merge voting alliances** across multiple Survivor seasons, creating network visualizations to reveal tribal dynamics before strategic gameplay begins.
+This project analyzes **pre-merge voting alliances** across multiple Survivor seasons, creating network visualizations to reveal tribal dynamics before strategic gameplay begins. Can we predict who will win or who won't win based on the voting dynamics?
 
 ### Current Status: 3/10 Seasons Complete
 - ✅ **Season 1: Borneo** (Complete data)

@@ -1,5 +1,5 @@
 """
-Metadata for Survivor Seasons 1-10
+Metadata for Survivor Seasons 1-30
 Contains season names, URLs, merge episodes, and finalists
 """
 
@@ -243,6 +243,126 @@ SEASONS_METADATA = {
         "finalists": ["Sandra", "Parvati", "Russell"],  # Final 3
         "winner": "Sandra",
         "tribe_merge_name": "Yin Yang"
+    },
+    21: {
+        "name": "Nicaragua",
+        "year": 2010,
+        "location": "San Juan del Sur, Nicaragua",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Nicaragua",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 20,
+        "finalists": ["Fabio", "Chase", "Sash"],  # Final 3
+        "winner": "Fabio",
+        "tribe_merge_name": "Libertad"
+    },
+    22: {
+        "name": "Redemption Island",
+        "year": 2011,
+        "location": "San Juan del Sur, Nicaragua",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Redemption_Island",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 18,
+        "finalists": ["Rob", "Phillip", "Natalie"],  # Final 3
+        "winner": "Rob",
+        "tribe_merge_name": "Murlonio"
+    },
+    23: {
+        "name": "South Pacific",
+        "year": 2011,
+        "location": "Samoa",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_South_Pacific",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 18,
+        "finalists": ["Sophie", "Coach", "Albert"],  # Final 3
+        "winner": "Sophie",
+        "tribe_merge_name": "Te Tuna"
+    },
+    24: {
+        "name": "One World",
+        "year": 2012,
+        "location": "Samoa",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_One_World",
+        "merge_episode": 7,
+        "episodes": 14,
+        "contestants": 18,
+        "finalists": ["Kim", "Sabrina", "Chelsea"],  # Final 3
+        "winner": "Kim",
+        "tribe_merge_name": "Tikiano"
+    },
+    25: {
+        "name": "Philippines",
+        "year": 2012,
+        "location": "Caramoan Islands, Philippines",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Philippines",
+        "merge_episode": 7,
+        "episodes": 14,
+        "contestants": 18,
+        "finalists": ["Denise", "Malcolm", "Skupin"],  # Final 3
+        "winner": "Denise",
+        "tribe_merge_name": "Dangrayne"
+    },
+    26: {
+        "name": "Caramoan",
+        "year": 2013,
+        "location": "Caramoan Islands, Philippines",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Caramoan",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 20,
+        "finalists": ["Cochran", "Dawn", "Sherri"],  # Final 3
+        "winner": "Cochran",
+        "tribe_merge_name": "Enil Edam"
+    },
+    27: {
+        "name": "Blood vs Water",
+        "year": 2013,
+        "location": "San Juan del Sur, Nicaragua",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Blood_vs._Water",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 20,
+        "finalists": ["Tyson", "Monica", "Gervase"],  # Final 3
+        "winner": "Tyson",
+        "tribe_merge_name": "Kasama"
+    },
+    28: {
+        "name": "Cagayan",
+        "year": 2014,
+        "location": "Cagayan, Philippines",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Cagayan",
+        "merge_episode": 6,
+        "episodes": 14,
+        "contestants": 18,
+        "finalists": ["Tony", "Woo", "Kass"],  # Final 3
+        "winner": "Tony",
+        "tribe_merge_name": "Solarrion"
+    },
+    29: {
+        "name": "San Juan del Sur",
+        "year": 2014,
+        "location": "San Juan del Sur, Nicaragua",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_San_Juan_del_Sur",
+        "merge_episode": 7,
+        "episodes": 14,
+        "contestants": 18,
+        "finalists": ["Natalie", "Jaclyn", "Missy"],  # Final 3
+        "winner": "Natalie",
+        "tribe_merge_name": "Huyopa"
+    },
+    30: {
+        "name": "Worlds Apart",
+        "year": 2015,
+        "location": "San Juan del Sur, Nicaragua",
+        "url": "https://survivor.fandom.com/wiki/Survivor:_Worlds_Apart",
+        "merge_episode": 8,
+        "episodes": 14,
+        "contestants": 18,
+        "finalists": ["Mike", "Carolyn", "Will"],  # Final 3
+        "winner": "Mike",
+        "tribe_merge_name": "Merica"
     }
 }
 
@@ -255,7 +375,7 @@ def get_all_seasons(start=1, end=10):
     return {k: v for k, v in SEASONS_METADATA.items() if start <= k <= end}
 
 if __name__ == "__main__":
-    print("Survivor Seasons 1-10 Metadata")
+    print("Survivor Seasons 1-30 Metadata")
     print("=" * 70)
 
     for season_num, info in SEASONS_METADATA.items():
